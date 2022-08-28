@@ -2,10 +2,10 @@
 
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software and Resources for the [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release) AI Model by StabilityAI. 
+This is a list of Software and Resources for the [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release) AI Model by StabilityAI. 
 
 🖊️ marks content that requires sign-up or account creation for a third party service outside github
-💵 marks content non-free, commercial content that may require payment.
+💵 marks content [Non-Free](https://en.wikipedia.org/wiki/Free_software), commercial content that may require any kind of payment.
 
 See [Contributing](.github/CONTRIBUTING.md).
 
