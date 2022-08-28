@@ -31,9 +31,10 @@ Models (.ckpt files) must be separately downloaded and are required to run Stabl
 * [RealESRGAN Models](https://github.com/xinntao/Real-ESRGAN/releases/) - Download location for the latest RealESRGAN models required to use upscaling by many forks implementing it. Different models exist for realistic and anime content. Please refer to the fork documentation to identify the ones you need.
 
  
-** Online Demos & Collabs
+## Online Demos & Collabs
+
 * [HuggingFace/StabilityAI](https://huggingface.co/spaces/stabilityai/stable-diffusion) - The official demo on HuggingFace Spaces.
-* [Offical Collab](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb) 
+* [Offical Collab](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb) - The official, optimized collab for running SD on Google Cloud. Due to VRAM requirements required Collab Pro to create images.
 
 ## Complimentary Models and Tools (open source)
 
@@ -61,7 +62,7 @@ Models (.ckpt files) must be separately downloaded and are required to run Stabl
 * [Lexica.art](https://lexica.art/) - A searchable, visual database of images and the prompts settings to recreate them.
 
 ## Discords
-* (https://discord.gg/stablediffusion) - The official Stable Diffusion Discord by StabilityAI
+* [Official Discord](https://discord.gg/stablediffusion) - The official Stable Diffusion Discord by StabilityAI
 
 
 
