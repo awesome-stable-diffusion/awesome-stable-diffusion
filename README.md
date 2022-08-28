@@ -45,7 +45,7 @@ Models (.ckpt files) must be separately downloaded and are required to run Stabl
 ## Complimentary Models and Tools (open source)
 
 ### Customisation
-* [textual-inversion](https://github.com/rinongal/textual_inversion) - Adding your own personalized content to Stable Diffusion without retraining the model ([Paper](https://textual-inversion.github.io/)). 
+* [textual-inversion](https://github.com/rinongal/textual_inversion) - Adding your own personalized content to Stable Diffusion without retraining the model ([Paper](https://textual-inversion.github.io/), [Paper2](https://dreambooth.github.io/)). 
 
 ### Upscaling
 
