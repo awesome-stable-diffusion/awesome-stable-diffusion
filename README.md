@@ -73,7 +73,7 @@ Tutorials and high quality edutcational resources.
 
 Prompts are the inputs used with diffusion models to manipulate their output. 
 
-* [Prompt Mania](https://promptomania.com/) - A visual prompt construction tool.
+* [PromptoMania](https://promptomania.com/) - A visual prompt construction tool.
 * [Lexica.art](https://lexica.art/) - A searchable, visual database of images and the prompts settings used to recreate them.
 
 ## Discords
