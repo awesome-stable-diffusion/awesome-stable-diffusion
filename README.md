@@ -23,7 +23,7 @@ All forks listed here add additional features and optimisations and are generall
 * [hlky/stable-diffusion](https://github.com/hlky/stable-diffusion) - Fork with optional [Gradio UI](https://github.com/hlky/stable-diffusion-webui) with support for txt2img, img2img inpainting, GFPGAN, ESGRAN, prompt weights and optional [textual-inversion](https://textual-inversion.github.io/)
 
 * [lstein/stable-diffusion](https://github.com/lstein/stable-diffusion) - Fork adding a conversational cli interface, basic web interface, GFPGAN, ESRGAN, prompt weights, [textual-inversion](https://textual-inversion.github.io/)
-* [lowfuel/progrock-stable](https://github.com/lowfuel/progrock-stable) - Fork with optional Web GUI, GoBIG/ESRGAN upscaling
+* [lowfuel/progrock-stable](https://github.com/lowfuel/progrock-stable) - Fork with optional Web GUI and a different approach to upscaling (GoBIG/ESRGAN)
 
 * [replicate/copg-stable-diffusion](https://github.com/replicate/cog-stable-diffusion) - [Cog machine learning container](https://github.com/replicate/cog) of SD v1.4
 
