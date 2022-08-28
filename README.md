@@ -7,6 +7,7 @@ This is a list of Software and Resources for the [Stable Diffusion](https://stab
 - 🖊️ marks content that requires sign-up or account creation for a third party service outside github
 - 💵 marks content [Non-Free](https://en.wikipedia.org/wiki/Free_software), commercial content that may require any kind of payment.
 
+Due to the fast moving nature of the topic, entries in the list may be removed at an expedited rate until the ecosystem matures.
 
 See [Contributing](.github/CONTRIBUTING.md).
 
@@ -22,12 +23,15 @@ See [Contributing](.github/CONTRIBUTING.md).
 All forks listed here add additional features and optimisations and are generally faster than the original release as they will keep the model in memory rather than reloading it every prompt. Most forks seem to remove the Safety Classifier which may be a risk in conjunction with third party services such as biscord bots.
 
 * [basujindal/stable-diffusion](https://github.com/basujindal/stable-diffusion) - "Optimized Stable Diffusion", fork with dramatically reduced VRAM requirements through model splitting, enabling stable diffusion on lower end video cards. Includes GradIO web interface, prompt weights
+
 * [hlky/stable-diffusion](https://github.com/hlky/stable-diffusion) - Fork with optional [Gradio UI](https://github.com/hlky/stable-diffusion-webui) with support for txt2img, img2img inpainting, GFPGAN, ESGRAN, prompt weights and optional [textual-inversion](https://textual-inversion.github.io/)
 
 * [lstein/stable-diffusion](https://github.com/lstein/stable-diffusion) - Fork adding a conversational cli interface, basic web interface, GFPGAN, ESRGAN, prompt weights, [textual-inversion](https://textual-inversion.github.io/)
 * [lowfuel/progrock-stable](https://github.com/lowfuel/progrock-stable) - Fork with optional Web GUI and a different approach to upscaling (GoBIG/ESRGAN)
 
 * [replicate/copg-stable-diffusion](https://github.com/replicate/cog-stable-diffusion) - [Cog machine learning container](https://github.com/replicate/cog) of SD v1.4
+
+* [bes-dev/stable-diffusion](https://github.com/bes-dev/stable-diffusion/tree/sb/cpu_inference) - A fork with experimental branch to allow CPU usage.  
 
 
 ## Models and Weights
