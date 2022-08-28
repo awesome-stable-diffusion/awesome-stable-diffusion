@@ -29,7 +29,7 @@ All forks listed here add additional features and optimisations and are generall
 
 Models (.ckpt files) must be separately downloaded and are required to run Stable Diffusion.
 
-* 🖊️ [The offical model card](https://huggingface.co/CompVis/stable-diffusion) - Official Model Card Hugging Face with all versions of the model. Download requires sign in and acceptance of terms of service.
+* 🖊️ [Official Model Card](https://huggingface.co/CompVis/stable-diffusion) - Official Model Card Hugging Face with all versions of the model. Download requires sign in and acceptance of terms of service.
 [stable-diffusion-v-1-4-original.chkpt](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original) - The latest model from the model card, required to run Stable Diffusion.
 * [RealESRGAN Models](https://github.com/xinntao/Real-ESRGAN/releases/) - Download location for the latest RealESRGAN models required to use upscaling by many forks implementing it. Different models exist for realistic and anime content. Please refer to the fork documentation to identify the ones you need.
 
@@ -50,21 +50,30 @@ Models (.ckpt files) must be separately downloaded and are required to run Stabl
 * [BasicSR](https://github.com/XPixelGroup/BasicSR) - Open Source Upscaling and Restoration toolbox supporting.
 
 ### Content Restoration
-* [GFPGAN](https://github.com/TencentARC/GFPGAN) - Face Restoration GAN included in several forks for automatically fixing deformed faces commonly found in SD output.* * [RealESRGAN](https://github.com/xinntao/Real-ESRGAN) - ESRGAN Upscaling (2x, 4x) and content restoration, useful for overcoming. Python: ```pip install realesrgan```
 * [lama-cleaner](https://github.com/Sanster/lama-cleaner) - Content aware AI inpainting tool with useful for removing unwanted objects or defects from images. Python: ```pip install lama-cleaner```
+* [GFPGAN](https://github.com/TencentARC/GFPGAN) - Face Restoration GAN included in several forks for automatically fixing deformed faces commonly found in SD output.* 
+* [RealESRGAN](https://github.com/xinntao/Real-ESRGAN) - ESRGAN Upscaling (2x, 4x) and content restoration, useful for overcoming. Python: ```pip install realesrgan```
+
 
 ### Task Chaining
 * [chaiNNer](https://github.com/joeyballentine/chaiNNer) - Graphical Node Based Editor for chaining image processing tasks.
 
 ## Tutorials & Comparisons
+
+Tutorials and high quality edutcational resources.
+
 * [Stable Diffusion How To](https://www.assemblyai.com/blog/how-to-run-stable-diffusion-locally-to-generate-images/) - A basic tutorial on how to get Stable Diffusion up and running.
 * ["Ultimate GUI Retard Guide](https://rentry.org/GUItard) - Tutorial for installing the [hlky fork](https://github.com/hlky/stable-diffusion) along with it's [WebUI](https://github.com/hlky/stable-diffusion-webui).
 * [Building a SD Discord Bot](https://replicate.com/blog/build-a-robot-artist-for-your-discord-server-with-stable-diffusion) - Tutorial on how to build a stable diffusion discord bot using python.
+
 - [AI Image Generator Comparison](https://petapixel.com/2022/08/22/ai-image-generators-compared-side-by-side-reveals-stark-differences/) Visual comparison between Dall-e, Stable Diffusion and Midjourney by PetaPixel.com 
 
 ## Prompt Building
+
+Prompts are the inputs used with diffusion models to manipulate their output. 
+
 * [Prompt Mania](https://promptomania.com/) - A visual prompt construction tool.
-* [Lexica.art](https://lexica.art/) - A searchable, visual database of images and the prompts settings to recreate them.
+* [Lexica.art](https://lexica.art/) - A searchable, visual database of images and the prompts settings used to recreate them.
 
 ## Discords
 * 🖊️[Official Discord](https://discord.gg/stablediffusion) - The official Stable Diffusion Discord by StabilityAI
