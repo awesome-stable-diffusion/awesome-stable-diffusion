@@ -55,15 +55,14 @@ Models (.ckpt files) must be separately downloaded and are required to run Stabl
 
 
 ### Upscaling
-
+* [RealESRGAN](https://github.com/xinntao/Real-ESRGAN) - ESRGAN Upscaling (2x, 4x) and content restoration, useful for overcoming. Python: ```pip install realesrgan```
 * [Cupscale](https://github.com/n00mkrad/cupscale) - Graphical User Interface to run various upscaling models, including ESRGAN and RealESRGAN
 * [BasicSR](https://github.com/XPixelGroup/BasicSR) - Open Source Upscaling and Restoration toolbox supporting.
 
 ### Content Restoration
 * [lama-cleaner](https://github.com/Sanster/lama-cleaner) - Content aware AI inpainting tool with useful for removing unwanted objects or defects from images. Python: ```pip install lama-cleaner```
 * [GFPGAN](https://github.com/TencentARC/GFPGAN) - Face Restoration GAN included in several forks for automatically fixing deformed faces commonly found in SD output.* 
-* [RealESRGAN](https://github.com/xinntao/Real-ESRGAN) - ESRGAN Upscaling (2x, 4x) and content restoration, useful for overcoming. Python: ```pip install realesrgan```
-
+* [CodeFormer](https://github.com/sczhou/CodeFormer) - Another Face Restoration Model [Paper: Towards Robust Blind Face Restoration with Codebook Lookup Transformer](https://arxiv.org/abs/2206.11253).
 
 ### Task Chaining
 * [chaiNNer](https://github.com/joeyballentine/chaiNNer) - Graphical Node Based Editor for chaining image processing tasks.
