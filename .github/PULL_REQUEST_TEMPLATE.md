@@ -11,8 +11,10 @@ To ensure your PR is dealt with swiftly please check the following:
   `Demo` links should only be used for interactive demos, i.e. not video demonstrations.
   ``- [Name](http://homepage/) - Short description, under 250 characters, sentence case. ([Demo](http://url.to/demo), [Source Code](http://url.of/source/code), [Clients](https://url.to/list/of/related/clients-or-apps)) `License` `Language` ``
 
-- [ ] Commercial or non-free resources, tools or services should only go in the Commercial section and be marked with ⚠.
-  ``- [Name](http://homepage/) `⚠` - Short description, under 250 characters, sentence case.
+- [ ] Resources requiring account creation or signup should be marked with 🖊️
+``- [Name](http://homepage/) `🖊️` - Short description, under 250 characters, sentence case.
+- [ ] Resources requiring payment of fees of any kind should be marked with 💵
+``- [Name](http://homepage/) `💵` - Short description, under 250 characters, sentence case.
 - [ ] Additions are inserted preserving alphabetical order.
 - [ ] You have searched the repository for any relevant [issues](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion) or [PRs](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion), including closed ones to avoid duplication or reintroducing removed conntent.
 - [ ] Any category you are creating has the minimum requirement of 3 items.
