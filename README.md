@@ -11,8 +11,9 @@ See [Contributing](.github/CONTRIBUTING.md).
 
 ## Official Repositories
 
- **[CompVis/Stable Diffusion](https://github.com/CompVis/stable-diffusion)** - The official release of Stable Diffusion with cli, an AI-based Safety Classifier to (detect and suppresses sexualized content and all the necessary files to get running.
- 
+* **[CompVis/Stable Diffusion](https://github.com/CompVis/stable-diffusion)** - The official release of Stable Diffusion with cli, an AI-based Safety Classifier to (detect and suppresses sexualized content and all the necessary files to get running.
+* [stability-AI/stability-sdk](https://github.com/stability-AI/stability-sdk) - The official SDK to build python applications integrating against StabilityAI's cloud platform instead of hosting the model yourself. Operation requires an API Key (🖊️💵)
+
 ## Actively Maintained Forks
 
 All forks listed here add additional features and optimisations and are generally faster than the original release as they will keep the model in memory rather than reloading it every prompt. Most forks seem to remove the Safety Classifier, making them potentially unsuitable for chat-bots and other environments that may deploy automated detection
@@ -69,9 +70,8 @@ Models (.ckpt files) must be separately downloaded and are required to run Stabl
 * 🖊️[Official Discord](https://discord.gg/stablediffusion) - The official Stable Diffusion Discord by StabilityAI
 
 ## Online Services implementing Stable Diffusion
-
 * 🖊️💵 [Dream Studio](http://beta.dreamstudio.ai/) - Online Generation Platform by StabilityAI, the creators of Stable Diffusion. Similar to services like Dall-e or Midjourney, this operates on a credit model with some free allowance of credits given to signed up users on a monthly basis.
-*  🖊️💵 [dream.ai](https://www.dream.ai/) - Online Art Generation Service (mobile apps available) by Wombo.ai implementing Stable Diffusion.
+* 🖊️💵 [dream.ai](https://www.dream.ai/) - Online Art Generation Service (mobile apps available) by Wombo.ai implementing Stable Diffusion.
 
 
 
