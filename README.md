@@ -71,7 +71,7 @@ Tools and models for use in conjuction with Stable Diffusion.
 
 ### Task Chaining
 * [chaiNNer](https://github.com/joeyballentine/chaiNNer) - Graphical Node Based Editor for chaining image processing tasks.
-
+* [ai-art-generator](https://github.com/rbbrdckybk/ai-art-generator) - AI Art Generation Suite combing SD and Models for high volume art generation.
 
 ## Prompt Building
 
