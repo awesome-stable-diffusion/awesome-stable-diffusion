@@ -73,12 +73,17 @@ Tools and models for use in conjuction with Stable Diffusion.
 * [chaiNNer](https://github.com/joeyballentine/chaiNNer) - Graphical Node Based Editor for chaining image processing tasks.
 * [ai-art-generator](https://github.com/rbbrdckybk/ai-art-generator) - AI Art Generation Suite combing SD and Models for high volume art generation.
 
-## Prompt Building
+### Prompt Building
 
 Prompts are the inputs used with diffusion models to manipulate their output. 
 
 * [PromptoMania](https://promptomania.com/) - A visual prompt construction tool.
 * [Lexica.art](https://lexica.art/) - A searchable, visual database of images and the prompts settings used to recreate them.
+
+### Misc/Other
+
+[rom1504/clip-retrieval](https://github.com/rom1504/clip-retrieval) - Reverse searches prompt keywords into the image dataset used by Stable Diffusion and other models. 
+
 
 
 ## Tutorials & Comparisons
