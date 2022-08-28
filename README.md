@@ -82,8 +82,7 @@ Prompts are the inputs used with diffusion models to manipulate their output.
 
 ### Misc/Other
 
-[rom1504/clip-retrieval](https://github.com/rom1504/clip-retrieval) - Reverse searches prompt keywords into the image dataset used by Stable Diffusion and other models. 
-
+* [rom1504/clip-retrieval](https://github.com/rom1504/clip-retrieval) - Reverse searches prompt keywords into the image dataset used by Stable Diffusion and other models. [Online GUI](https://rom1504.github.io/clip-retrieval/) available.
 
 
 ## Tutorials & Comparisons
