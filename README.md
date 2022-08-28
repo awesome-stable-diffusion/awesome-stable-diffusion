@@ -15,7 +15,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 * [stability-AI/stability-sdk](https://github.com/stability-AI/stability-sdk) - The official SDK to build python applications integrating against StabilityAI's cloud platform instead of hosting the model yourself. Operation requires an API Key (🖊️💵)
 * [Public Release Announcement](https://stability.ai/blog/stable-diffusion-public-release) - StabilityAI's public announcement on the release of Stable Diffusion.
 
-## Actively Maintained Forks
+## Actively Maintained Forks & Containers
 
 All forks listed here add additional features and optimisations and are generally faster than the original release as they will keep the model in memory rather than reloading it every prompt. Most forks seem to remove the Safety Classifier, making them potentially unsuitable for chat-bots and other environments that may deploy automated detection
 
@@ -24,6 +24,8 @@ All forks listed here add additional features and optimisations and are generall
 
 * [lstein/stable-diffusion](https://github.com/lstein/stable-diffusion) - Fork adding a conversational cli interface, basic web interface, GFPGAN, ESRGAN, prompt weights, [textual-inversion](https://textual-inversion.github.io/)
 * [lowfuel/progrock-stable](https://github.com/lowfuel/progrock-stable) - Fork with optional Web GUI, GoBIG/ESRGAN upscaling
+
+* [replicate/copg-stable-diffusion](https://github.com/replicate/cog-stable-diffusion) - [Cog machine learning container](https://github.com/replicate/cog) of SD v1.4
 
 
 ## Models and Weights
@@ -38,7 +40,7 @@ Models (.ckpt files) must be separately downloaded and are required to run Stabl
 ## Online Demos & Collabs
 
 * [HuggingFace/StabilityAI](https://huggingface.co/spaces/stabilityai/stable-diffusion) - The official demo on HuggingFace Spaces.
-* 🖊️💵  [Offical Collab](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb) - The official, optimized collab for running SD on Google Cloud. Due to VRAM requirements required Collab Pro to create images.
+* 🖊️💵 [Offical Collab](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb) - The official, optimized collab for running SD on Google Cloud. Due to VRAM requirements required Collab Pro to create images.
 
 ## Complimentary Models and Tools (open source)
 
@@ -64,6 +66,7 @@ Models (.ckpt files) must be separately downloaded and are required to run Stabl
 Tutorials and high quality edutcational resources.
 
 * [Stable Diffusion How To](https://www.assemblyai.com/blog/how-to-run-stable-diffusion-locally-to-generate-images/) - A basic tutorial on how to get Stable Diffusion up and running.
+* [Installing on Windows](https://rentry.org/SDInstallation) - A guide to install and run SD on Windows with c
 * ["Ultimate GUI Retard Guide](https://rentry.org/GUItard) - Tutorial for installing the [hlky fork](https://github.com/hlky/stable-diffusion) along with it's [WebUI](https://github.com/hlky/stable-diffusion-webui).
 * [Building a SD Discord Bot](https://replicate.com/blog/build-a-robot-artist-for-your-discord-server-with-stable-diffusion) - Tutorial on how to build a stable diffusion discord bot using python.
 
