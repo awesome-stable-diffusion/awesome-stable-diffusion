@@ -9,10 +9,11 @@ This is a list of Software and Resources for the [Stable Diffusion](https://stab
 
 See [Contributing](.github/CONTRIBUTING.md).
 
-## Official Repositories
+## Official Resources
 
 * **[CompVis/Stable Diffusion](https://github.com/CompVis/stable-diffusion)** - The official release of Stable Diffusion with cli, an AI-based Safety Classifier to (detect and suppresses sexualized content and all the necessary files to get running.
 * [stability-AI/stability-sdk](https://github.com/stability-AI/stability-sdk) - The official SDK to build python applications integrating against StabilityAI's cloud platform instead of hosting the model yourself. Operation requires an API Key (🖊️💵)
+* [Public Release Announcement](https://stability.ai/blog/stable-diffusion-public-release) - StabilityAI's public announcement on the release of Stable Diffusion.
 
 ## Actively Maintained Forks
 
@@ -27,7 +28,7 @@ All forks listed here add additional features and optimisations and are generall
 
 ## Models and Weights
 
-Models (.ckpt files) must be separately downloaded and are required to run Stable Diffusion.
+Models (.ckpt files) must be separately downloaded and are required to run Stable Diffusion. The most current model release is v1.4 at this time.
 
 * 🖊️ [Official Model Card](https://huggingface.co/CompVis/stable-diffusion) - Official Model Card Hugging Face with all versions of the model. Download requires sign in and acceptance of terms of service.
 [stable-diffusion-v-1-4-original.chkpt](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original) - The latest model from the model card, required to run Stable Diffusion.
