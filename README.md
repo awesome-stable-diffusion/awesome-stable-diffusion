@@ -64,7 +64,7 @@ Models (.ckpt files) must be separately downloaded and are required to run Stabl
 * [Lexica.art](https://lexica.art/) - A searchable, visual database of images and the prompts settings to recreate them.
 
 ## Discords
-* [Official Discord](https://discord.gg/stablediffusion) - The official Stable Diffusion Discord by StabilityAI
+* 🖊️[Official Discord](https://discord.gg/stablediffusion) - The official Stable Diffusion Discord by StabilityAI
 
 ## Online Services implementing Stable Diffusion
 
