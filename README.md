@@ -17,7 +17,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 
 ## Actively Maintained Forks & Containers
 
-All forks listed here add additional features and optimisations and are generally faster than the original release as they will keep the model in memory rather than reloading it every prompt. Most forks seem to remove the Safety Classifier, making them potentially unsuitable for chat-bots and other environments that may deploy automated detection
+All forks listed here add additional features and optimisations and are generally faster than the original release as they will keep the model in memory rather than reloading it every prompt. Most forks seem to remove the Safety Classifier. Due to the novelty of the topic, actively maintained means less than two months since the last significant update.
 
 * [basujindal/stable-diffusion](https://github.com/basujindal/stable-diffusion) - "Optimized Stable Diffusion", fork with dramatically reduced VRAM requirements through model splitting, enabling stable diffusion on lower end video cards. Includes gradio web interface, prompt weights
 * [hlky/stable-diffusion](https://github.com/hlky/stable-diffusion) - Fork with optional [Gradio UI](https://github.com/hlky/stable-diffusion-webui) with support for txt2img, img2img inpainting, GFPGAN, ESGRAN, prompt weights and optional [textual-inversion](https://textual-inversion.github.io/)
