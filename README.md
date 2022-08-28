@@ -1,12 +1,13 @@
 # Awesome Stable-Diffusion
 
-
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software and Resources for the [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release) AI Model by StabilityAI. Non-Free commercial software is listed in a separate section below.
+This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software and Resources for the [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release) AI Model by StabilityAI. 
+
+🖊️ marks content that requires sign-up or account creation for a third party service outside github
+💵 marks content non-free, commercial content that may require payment.
 
 See [Contributing](.github/CONTRIBUTING.md).
-
 
 ## Official Repositories
 
@@ -26,7 +27,7 @@ All forks listed here add additional features and optimisations and are generall
 
 Models (.ckpt files) must be separately downloaded and are required to run Stable Diffusion.
 
-* [The offical model card](https://huggingface.co/CompVis/stable-diffusion) - Official Model Card Hugging Face with all versions of the model. Download requires sign in and acceptance of terms of service.
+* 🖊️ [The offical model card](https://huggingface.co/CompVis/stable-diffusion) - Official Model Card Hugging Face with all versions of the model. Download requires sign in and acceptance of terms of service.
 [stable-diffusion-v-1-4-original.chkpt](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original) - The latest model from the model card, required to run Stable Diffusion.
 * [RealESRGAN Models](https://github.com/xinntao/Real-ESRGAN/releases/) - Download location for the latest RealESRGAN models required to use upscaling by many forks implementing it. Different models exist for realistic and anime content. Please refer to the fork documentation to identify the ones you need.
 
@@ -34,7 +35,7 @@ Models (.ckpt files) must be separately downloaded and are required to run Stabl
 ## Online Demos & Collabs
 
 * [HuggingFace/StabilityAI](https://huggingface.co/spaces/stabilityai/stable-diffusion) - The official demo on HuggingFace Spaces.
-* [Offical Collab](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb) - The official, optimized collab for running SD on Google Cloud. Due to VRAM requirements required Collab Pro to create images.
+* 🖊️💵  [Offical Collab](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb) - The official, optimized collab for running SD on Google Cloud. Due to VRAM requirements required Collab Pro to create images.
 
 ## Complimentary Models and Tools (open source)
 
@@ -64,6 +65,10 @@ Models (.ckpt files) must be separately downloaded and are required to run Stabl
 ## Discords
 * [Official Discord](https://discord.gg/stablediffusion) - The official Stable Diffusion Discord by StabilityAI
 
+## Online Services implementing Stable Diffusion
+
+* 🖊️💵 [Dream Studio](http://beta.dreamstudio.ai/) - Online Generation Platform by StabilityAI, the creators of Stable Diffusion. Similar to services like Dall-e or Midjourney, this operates on a credit model with some free allowance of credits given to signed up users on a monthly basis.
+*  🖊️💵 [dream.ai](https://www.dream.ai/) - Online Art Generation Service (mobile apps available) by Wombo.ai implementing Stable Diffusion.
 
 
 
