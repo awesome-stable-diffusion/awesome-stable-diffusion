@@ -31,8 +31,6 @@ All forks listed here add additional features and optimisations and are generall
 
 * [replicate/copg-stable-diffusion](https://github.com/replicate/cog-stable-diffusion) - [Cog machine learning container](https://github.com/replicate/cog) of SD v1.4
 
-* [bes-dev/stable-diffusion](https://github.com/bes-dev/stable-diffusion/tree/sb/cpu_inference) - A fork with experimental branch to allow CPU usage.  
-
 
 ## Models and Weights
 
