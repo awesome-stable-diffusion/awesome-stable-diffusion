@@ -43,7 +43,9 @@ Models (.ckpt files) must be separately downloaded and are required to run Stabl
 * [HuggingFace/StabilityAI](https://huggingface.co/spaces/stabilityai/stable-diffusion) - The official demo on HuggingFace Spaces.
 * 🖊️💵 [Offical Collab](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb) - The official, optimized collab for running SD on Google Cloud. Due to VRAM requirements required Collab Pro to create images.
 
-## Complimentary Models and Tools (open source)
+## Complimentary Models and Tools
+
+Tools and models for use in conjuction with Stable Diffusion.
 
 ### Customisation
 * [textual-inversion](https://github.com/rinongal/textual_inversion) - Adding your own personalized content to Stable Diffusion without retraining the model ([Paper](https://textual-inversion.github.io/), [Paper2](https://dreambooth.github.io/)). 
