@@ -15,12 +15,13 @@ See [Contributing](.github/CONTRIBUTING.md).
 * **[CompVis/Stable Diffusion](https://github.com/CompVis/stable-diffusion)** - The official release of Stable Diffusion with cli, an AI-based Safety Classifier to (detect and suppresses sexualized content and all the necessary files to get running.
 * [stability-AI/stability-sdk](https://github.com/stability-AI/stability-sdk) - The official SDK to build python applications integrating against StabilityAI's cloud platform instead of hosting the model yourself. Operation requires an API Key (🖊️💵)
 * [Public Release Announcement](https://stability.ai/blog/stable-diffusion-public-release) - StabilityAI's public announcement on the release of Stable Diffusion.
+* 🖊️ [Official Discord](https://discord.gg/stablediffusion) - The official Stable Diffusion Discord by StabilityAI.
 
 ## Actively Maintained Forks & Containers
 
-All forks listed here add additional features and optimisations and are generally faster than the original release as they will keep the model in memory rather than reloading it every prompt. Most forks seem to remove the Safety Classifier. Due to the novelty of the topic, actively maintained means less than two months since the last significant update.
+All forks listed here add additional features and optimisations and are generally faster than the original release as they will keep the model in memory rather than reloading it every prompt. Most forks seem to remove the Safety Classifier which may be a risk in conjunction with third party services such as biscord bots.
 
-* [basujindal/stable-diffusion](https://github.com/basujindal/stable-diffusion) - "Optimized Stable Diffusion", fork with dramatically reduced VRAM requirements through model splitting, enabling stable diffusion on lower end video cards. Includes gradio web interface, prompt weights
+* [basujindal/stable-diffusion](https://github.com/basujindal/stable-diffusion) - "Optimized Stable Diffusion", fork with dramatically reduced VRAM requirements through model splitting, enabling stable diffusion on lower end video cards. Includes GradIO web interface, prompt weights
 * [hlky/stable-diffusion](https://github.com/hlky/stable-diffusion) - Fork with optional [Gradio UI](https://github.com/hlky/stable-diffusion-webui) with support for txt2img, img2img inpainting, GFPGAN, ESGRAN, prompt weights and optional [textual-inversion](https://textual-inversion.github.io/)
 
 * [lstein/stable-diffusion](https://github.com/lstein/stable-diffusion) - Fork adding a conversational cli interface, basic web interface, GFPGAN, ESRGAN, prompt weights, [textual-inversion](https://textual-inversion.github.io/)
@@ -69,6 +70,15 @@ Tools and models for use in conjuction with Stable Diffusion.
 ### Task Chaining
 * [chaiNNer](https://github.com/joeyballentine/chaiNNer) - Graphical Node Based Editor for chaining image processing tasks.
 
+
+## Prompt Building
+
+Prompts are the inputs used with diffusion models to manipulate their output. 
+
+* [PromptoMania](https://promptomania.com/) - A visual prompt construction tool.
+* [Lexica.art](https://lexica.art/) - A searchable, visual database of images and the prompts settings used to recreate them.
+
+
 ## Tutorials & Comparisons
 
 Tutorials and high quality edutcational resources.
@@ -80,20 +90,13 @@ Tutorials and high quality edutcational resources.
 
 - [AI Image Generator Comparison](https://petapixel.com/2022/08/22/ai-image-generators-compared-side-by-side-reveals-stark-differences/) Visual comparison between Dall-e, Stable Diffusion and Midjourney by PetaPixel.com 
 
-## Prompt Building
+## Social Media
+* [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/) - Stable Diffusion Reddit.
 
-Prompts are the inputs used with diffusion models to manipulate their output. 
-
-* [PromptoMania](https://promptomania.com/) - A visual prompt construction tool.
-* [Lexica.art](https://lexica.art/) - A searchable, visual database of images and the prompts settings used to recreate them.
-
-## Discords
-* 🖊️[Official Discord](https://discord.gg/stablediffusion) - The official Stable Diffusion Discord by StabilityAI
 
 ## Online Services implementing Stable Diffusion
 * 🖊️💵 [Dream Studio](http://beta.dreamstudio.ai/) - Online Generation Platform by StabilityAI, the creators of Stable Diffusion. Similar to services like Dall-e or Midjourney, this operates on a credit model with some free allowance of credits given to signed up users on a monthly basis.
 * 🖊️💵 [dream.ai](https://www.dream.ai/) - Online Art Generation Service (mobile apps available) by Wombo.ai implementing Stable Diffusion.
-
 
 
 
