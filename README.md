@@ -20,7 +20,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 
 ## Actively Maintained Forks & Containers
 
-All forks listed here add additional features and optimisations and are generally faster than the original release as they will keep the model in memory rather than reloading it every prompt. Most forks seem to remove the Safety Classifier which may be a risk in conjunction with third party services such as biscord bots.
+All forks listed here add additional features and optimisations and are generally faster than the original release as they will keep the model in memory rather than reloading it every prompt. Most forks seem to remove the Safety Classifier which may be a risk in conjunction with third party services such as discord bots.
 
 * [basujindal/stable-diffusion](https://github.com/basujindal/stable-diffusion) - "Optimized Stable Diffusion", fork with dramatically reduced VRAM requirements through model splitting, enabling stable diffusion on lower end video cards. Includes GradIO web interface, prompt weights
 
