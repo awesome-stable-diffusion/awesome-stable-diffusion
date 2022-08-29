@@ -63,6 +63,7 @@ Tools and models for use in conjuction with Stable Diffusion.
 * [RealESRGAN](https://github.com/xinntao/Real-ESRGAN) - ESRGAN Upscaling (2x, 4x) and content restoration, useful for overcoming. Python: ```pip install realesrgan```
 * [Cupscale](https://github.com/n00mkrad/cupscale) - Graphical User Interface to run various upscaling models, including ESRGAN and RealESRGAN
 * [BasicSR](https://github.com/XPixelGroup/BasicSR) - Open Source Upscaling and Restoration toolbox supporting.
+* [BSRGAN](https://github.com/cszn/BSRGAN) - BSRGAN - Another upscaling solution specialized in upscaling degraded images.
 
 ### Content Restoration
 * [lama-cleaner](https://github.com/Sanster/lama-cleaner) - Content aware AI inpainting tool with useful for removing unwanted objects or defects from images. Python: ```pip install lama-cleaner```
