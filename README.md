@@ -93,10 +93,10 @@ Tutorials and high quality edutcational resources.
 * [Stable Diffusion How To](https://www.assemblyai.com/blog/how-to-run-stable-diffusion-locally-to-generate-images/) - A basic tutorial on how to get Stable Diffusion up and running.
 * [Installing on Windows](https://rentry.org/SDInstallation) - A guide to install and run SD on Windows with c
 * [Running on M1 Apple Silicon](https://www.reddit.com/r/StableDiffusion/comments/wx0tkn/stablediffusion_runs_on_m1_chips/) - Reddit thread with instructions on how to run Stable Diffusion on Apple M1 CPU and GPU.
+* [Easy CPU-only Stable Diffusion](https://rentry.org/cpu_stable_diffusion_guide) - Easy CPU-only stable diffusion without littering too much your GNU/Linux system
 * ["Ultimate GUI Retard Guide](https://rentry.org/GUItard) - Tutorial for installing the [hlky fork](https://github.com/hlky/stable-diffusion) along with it's [WebUI](https://github.com/hlky/stable-diffusion-webui).
 * [Building a SD Discord Bot](https://replicate.com/blog/build-a-robot-artist-for-your-discord-server-with-stable-diffusion) - Tutorial on how to build a stable diffusion discord bot using python.
 
-- [Sunny's Tips & Tricks](https://docs.google.com/document/u/1/d/1K6EqcsRut0InU-8jB0yOvBMGesf5Dndg5FwyuaYLqNc/mobilebasic) - Sunny's SD Tips & Tricks Google Doc with lots of visual comparisons and useful information.
 - [AI Image Generator Comparison](https://petapixel.com/2022/08/22/ai-image-generators-compared-side-by-side-reveals-stark-differences/) Visual comparison between Dall-e, Stable Diffusion and Midjourney by PetaPixel.com 
 
 ## Social Media
