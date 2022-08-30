@@ -91,8 +91,9 @@ Prompts are the inputs used with diffusion models to manipulate their output.
 Tutorials and high quality edutcational resources.
 
 * [Stable Diffusion How To](https://www.assemblyai.com/blog/how-to-run-stable-diffusion-locally-to-generate-images/) - A basic tutorial on how to get Stable Diffusion up and running.
-* [Installing on Windows](https://rentry.org/SDInstallation) - A guide to install and run SD on Windows. 
-* [Running on M1 Apple Silicon](https://www.reddit.com/r/StableDiffusion/comments/wx0tkn/stablediffusion_runs_on_m1_chips/) - Reddit thread with instructions on how to run Stable Diffusion on Apple M1 CPU and GPU.  See also [this issue](https://github.com/CompVis/stable-diffusion/issues/25) in the offical repository. 
+* [Installing on Windows](https://rentry.org/SDInstallation) - A guide to install and run SD on Windows with c
+* [Running on M1 Apple Silicon](https://www.reddit.com/r/StableDiffusion/comments/wx0tkn/stablediffusion_runs_on_m1_chips/) - Reddit thread with instructions on how to run Stable Diffusion on Apple M1 CPU and GPU.
+* [Easy CPU-only Stable Diffusion](https://rentry.org/cpu_stable_diffusion_guide) - Easy CPU-only stable diffusion without littering too much your GNU/Linux system
 * ["Ultimate GUI Retard Guide](https://rentry.org/GUItard) - Tutorial for installing the [hlky fork](https://github.com/hlky/stable-diffusion) along with it's [WebUI](https://github.com/hlky/stable-diffusion-webui).
 * [Building a SD Discord Bot](https://replicate.com/blog/build-a-robot-artist-for-your-discord-server-with-stable-diffusion) - Tutorial on how to build a stable diffusion discord bot using python.
 
