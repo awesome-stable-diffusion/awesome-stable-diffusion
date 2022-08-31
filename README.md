@@ -45,6 +45,7 @@ Models (.ckpt files) must be separately downloaded and are required to run Stabl
 
 * [HuggingFace/StabilityAI](https://huggingface.co/spaces/stabilityai/stable-diffusion) - The official demo on HuggingFace Spaces.
 * 🖊️💵 [Offical Collab](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb) - The official, optimized collab for running SD on Google Cloud. Due to VRAM requirements required Collab Pro to create images.
+* [andreasjansson/stable-diffusion-animation](https://replicate.com/andreasjansson/stable-diffusion-animation) - Animate between prompts.
 
 ## Complimentary Models and Tools
 
