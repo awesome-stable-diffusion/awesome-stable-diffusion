@@ -81,6 +81,7 @@ Prompts are the inputs used with diffusion models to manipulate their output.
 * [PromptoMania](https://promptomania.com/) - A visual prompt construction tool.
 * [Lexica.art](https://lexica.art/) - A searchable, visual database of images and the prompts settings used to recreate them.
 * [ai-art.com/modifiers](https://www.the-ai-art.com/modifiers) - A visual reference guide to keywords.
+* [pharmapsychotic/clip-interrogator](https://github.com/pharmapsychotic/clip-interrogator) - Jupiter Notebook for reverse engineering prompts from images.
 ### Misc/Other
 
 * [rom1504/clip-retrieval](https://github.com/rom1504/clip-retrieval) - Reverse searches prompt keywords into the image dataset used by Stable Diffusion and other models. [Online GUI](https://rom1504.github.io/clip-retrieval/) available.
