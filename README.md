@@ -105,7 +105,7 @@ Tutorials and high quality edutcational resources.
 - [AI Image Generator Comparison](https://petapixel.com/2022/08/22/ai-image-generators-compared-side-by-side-reveals-stark-differences/) Visual comparison between Dall-e, Stable Diffusion and Midjourney by PetaPixel.com 
 
 ## Community resources
-* [1 week of Stable Diffusion](https://www.assemblyai.com/blog/how-to-run-stable-diffusion-locally-to-generate-images/) - Curated list of SD services, adaptations, user interfaces and integrations
+* [1 week of Stable Diffusion](https://multimodal.art/news/1-week-of-stable-diffusion) - Curated list of SD services, adaptations, user interfaces and integrations
 
 ## Social Media
 * [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/) - Stable Diffusion Reddit.
