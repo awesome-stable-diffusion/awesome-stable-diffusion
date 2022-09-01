@@ -24,6 +24,8 @@ All forks listed here add additional features and optimisations and are generall
 
 * [basujindal/stable-diffusion](https://github.com/basujindal/stable-diffusion) - "Optimized Stable Diffusion", fork with dramatically reduced VRAM requirements through model splitting, enabling stable diffusion on lower end video cards. Includes GradIO web interface, prompt weights
 
+* [bes-dev/stable_diffusion.openvino](https://github.com/bes-dev/stable_diffusion.openvino) - Fork for running through CPU which is compatible with OpenVINO
+
 * [hlky/stable-diffusion](https://github.com/hlky/stable-diffusion) - Fork with optional [Gradio UI](https://github.com/hlky/stable-diffusion-webui) with support for txt2img, img2img inpainting, GFPGAN, ESGRAN, prompt weights and optional [textual-inversion](https://textual-inversion.github.io/)
 
 * [lstein/stable-diffusion](https://github.com/lstein/stable-diffusion) - Fork adding a conversational cli interface, basic web interface, GFPGAN, ESRGAN, prompt weights, [textual-inversion](https://textual-inversion.github.io/)
