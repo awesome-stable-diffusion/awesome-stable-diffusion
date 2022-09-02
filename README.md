@@ -24,6 +24,8 @@ All forks listed here add additional features and optimisations and are generall
 
 * [basujindal/stable-diffusion](https://github.com/basujindal/stable-diffusion) - "Optimized Stable Diffusion", fork with dramatically reduced VRAM requirements through model splitting, enabling stable diffusion on lower end video cards. Includes GradIO web interface, prompt weights
 
+* [bes-dev/stable_diffusion.openvino](https://github.com/bes-dev/stable_diffusion.openvino) - Fork for running through CPU which is compatible with OpenVINO
+
 * [hlky/stable-diffusion](https://github.com/hlky/stable-diffusion) - Fork with optional [Gradio UI](https://github.com/hlky/stable-diffusion-webui) with support for txt2img, img2img inpainting, GFPGAN, ESGRAN, prompt weights and optional [textual-inversion](https://textual-inversion.github.io/)
 
 * [lstein/stable-diffusion](https://github.com/lstein/stable-diffusion) - Fork adding a conversational cli interface, basic web interface, GFPGAN, ESRGAN, prompt weights, [textual-inversion](https://textual-inversion.github.io/)
@@ -103,7 +105,7 @@ Tutorials and high quality edutcational resources.
 - [AI Image Generator Comparison](https://petapixel.com/2022/08/22/ai-image-generators-compared-side-by-side-reveals-stark-differences/) Visual comparison between Dall-e, Stable Diffusion and Midjourney by PetaPixel.com 
 
 ## Community resources
-* [1 week of Stable Diffusion](https://www.assemblyai.com/blog/how-to-run-stable-diffusion-locally-to-generate-images/) - Curated list of SD services, adaptations, user interfaces and integrations
+* [1 week of Stable Diffusion](https://multimodal.art/news/1-week-of-stable-diffusion) - Curated list of SD services, adaptations, user interfaces and integrations
 
 ## Social Media
 * [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/) - Stable Diffusion Reddit.
