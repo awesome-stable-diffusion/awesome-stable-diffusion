@@ -18,7 +18,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 * [Public Release Announcement](https://stability.ai/blog/stable-diffusion-public-release) - StabilityAI's announcement about the public release of Stable Diffusion.
 * 🖊️ [Official Discord](https://discord.gg/stablediffusion) - The official Stable Diffusion Discord by StabilityAI.
 
-## Actively Maintained Forks & Containers
+## Actively Maintained Forks and Containers
 
 All forks listed here add additional features and optimisations and are generally faster than the original release, as they keep the model in memory rather than reloading it after every prompt. Most forks seem to remove the Safety Classifier which may present a risk if used to provide public-facing services, such as Discord bots.
 
@@ -33,7 +33,7 @@ All forks listed here add additional features and optimisations and are generall
 * [replicate/copg-stable-diffusion](https://github.com/replicate/cog-stable-diffusion) - [Cog machine learning container](https://github.com/replicate/cog) of SD v1.4
 * [stable-diffusion-jupyterlab-docker](https://github.com/pieroit/stable-diffusion-jupyterlab-docker) - A Docker setup ready to go with Jupyter notebooks for Stable Diffusion. 
 
-## Models & Weights
+## Models and Weights
 
 Models (.ckpt files) must be separately downloaded and are required to run Stable Diffusion. The latest model release is v1.4.
 
@@ -42,13 +42,13 @@ Models (.ckpt files) must be separately downloaded and are required to run Stabl
 * [RealESRGAN Models](https://github.com/xinntao/Real-ESRGAN/releases/) - Download location for the latest RealESRGAN models required to use the upscaling features implemented by many forks. Different models exist for realistic and anime content. Please refer to the fork documentation to identify the ones you need.
 
  
-## Online Demos & Notebooks
+## Online Demos and Notebooks
 
 * [HuggingFace/StabilityAI](https://huggingface.co/spaces/stabilityai/stable-diffusion) - The official demo on HuggingFace Spaces.
 * 🖊️💵 [Offical Colab](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb) - The official, optimized colab for running SD on Google Cloud. Due to VRAM requirements required Colab Pro to create images.
 * [andreasjansson/stable-diffusion-animation](https://replicate.com/andreasjansson/stable-diffusion-animation) - Animate between prompts.
 
-## Complementary Models & Tools
+## Complementary Models and Tools
 
 Tools and models for use in conjuction with Stable Diffusion
 
@@ -88,7 +88,7 @@ Prompts are the instructions given to diffusion models to manipulate their outpu
 * [rom1504/clip-retrieval](https://github.com/rom1504/clip-retrieval) - Searches for prompt keywords in the datasets used in training Stable Diffusion and other models ([Online GUI](https://rom1504.github.io/clip-retrieval/)).
 
 
-## Tutorials & Comparisons
+## Tutorials and Comparisons
 
 Tutorials and high quality edutcational resources.
 
