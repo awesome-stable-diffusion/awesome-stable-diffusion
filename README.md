@@ -48,7 +48,7 @@ Models (.ckpt files) must be separately downloaded and are required to run Stabl
 * 🖊️💵 [Offical Colab](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb) - The official, optimized colab for running SD on Google Cloud. Due to VRAM requirements required Colab Pro to create images.
 * [andreasjansson/stable-diffusion-animation](https://replicate.com/andreasjansson/stable-diffusion-animation) - Animate between prompts.
 
-## Complimentary Models and Tools
+## Complementary Models and Tools
 
 Tools and models for use in conjuction with Stable Diffusion
 
