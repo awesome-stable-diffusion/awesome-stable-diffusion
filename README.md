@@ -33,7 +33,7 @@ All forks listed here add additional features and optimisations and are generall
 * [replicate/copg-stable-diffusion](https://github.com/replicate/cog-stable-diffusion) - [Cog machine learning container](https://github.com/replicate/cog) of SD v1.4
 * [stable-diffusion-jupyterlab-docker](https://github.com/pieroit/stable-diffusion-jupyterlab-docker) - A Docker setup ready to go with Jupyter notebooks for Stable Diffusion. 
 
-## Models and Weights
+## Models & Weights
 
 Models (.ckpt files) must be separately downloaded and are required to run Stable Diffusion. The latest model release is v1.4.
 
@@ -48,7 +48,7 @@ Models (.ckpt files) must be separately downloaded and are required to run Stabl
 * 🖊️💵 [Offical Colab](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb) - The official, optimized colab for running SD on Google Cloud. Due to VRAM requirements required Colab Pro to create images.
 * [andreasjansson/stable-diffusion-animation](https://replicate.com/andreasjansson/stable-diffusion-animation) - Animate between prompts.
 
-## Complementary Models and Tools
+## Complementary Models & Tools
 
 Tools and models for use in conjuction with Stable Diffusion
 
