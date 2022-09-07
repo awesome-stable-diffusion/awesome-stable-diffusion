@@ -83,8 +83,7 @@ Prompts are the instructions given to diffusion models to manipulate their outpu
 * [Lexica.art](https://lexica.art/) - A searchable, visual database of images and the prompts settings used to create them.
 * 🖊️[Phraser](https://phraser.tech/) - A visual prompt builder drawing on a database of examples. (Requires account creation)
 * [ai-art.com/modifiers](https://www.the-ai-art.com/modifiers) - A visual reference guide for keywords.
-* [pharmapsychotic/clip-interrogator](https://github.com/pharmapsychotic/clip-interrogator) - Jupyter notebook uses CLIP models to suggest a prompt for images similar to a given image
- * [Demo: img2prompt](https://replicate.com/methexis-inc/img2prompt)
+* [pharmapsychotic/clip-interrogator](https://github.com/pharmapsychotic/clip-interrogator) - Jupyter notebook uses CLIP models to suggest a prompt for images similar to a given image ([Demo](https://replicate.com/methexis-inc/img2prompt)).
 * [rom1504/clip-retrieval](https://github.com/rom1504/clip-retrieval) - Searches for prompt keywords in the datasets used in training Stable Diffusion and other models ([Online GUI](https://rom1504.github.io/clip-retrieval/)).
 
 
