@@ -5,7 +5,7 @@
 This is a list of software and resources for the [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release) AI model.
 
 - 🖊️ marks content that requires sign-up or account creation for a third party service outside GitHub
-- 💵 marks [Non-Free](https://en.wikipedia.org/wiki/Free_software) content; commercial content that may require any kind of payment.
+- 💵 marks [Non-Free](https://en.wikipedia.org/wiki/Free_software) content: commercial content that may require any kind of payment.
 
 Due to the fast-moving nature of the topic, entries in the list may be removed at an expedited rate until the ecosystem matures.
 
