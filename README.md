@@ -20,18 +20,18 @@ See [Contributing](.github/CONTRIBUTING.md).
 
 ## Actively Maintained Forks & Containers
 
-All forks listed here add additional features and optimisations and are generally faster than the original release as they will keep the model in memory rather than reloading it every prompt. Most forks seem to remove the Safety Classifier which may be a risk in conjunction with third party services such as discord bots.
+All forks listed here add additional features and optimisations and are generally faster than the original release, as they keep the model in memory rather than reloading it after every prompt. Most forks seem to remove the Safety Classifier which may present a risk if used to provide public-facing services, such as Discord bots.
 
-* [basujindal/stable-diffusion](https://github.com/basujindal/stable-diffusion) - "Optimized Stable Diffusion", fork with dramatically reduced VRAM requirements through model splitting, enabling stable diffusion on lower end video cards. Includes GradIO web interface, prompt weights. 
+* [basujindal/stable-diffusion](https://github.com/basujindal/stable-diffusion) - "Optimized Stable Diffusion"—a fork with dramatically reduced VRAM requirements through model splitting, enabling Stable Diffusion on lower-end graphics cards; includes a GradIO web interface and support for weighted prompts. 
 
-* [bes-dev/stable_diffusion.openvino](https://github.com/bes-dev/stable_diffusion.openvino) - Fork for running through CPU which is compatible with OpenVINO
+* [bes-dev/stable_diffusion.openvino](https://github.com/bes-dev/stable_diffusion.openvino) - Fork for running the model using a CPU compatible with OpenVINO
 
-* [hlky/stable-diffusion](https://github.com/hlky/stable-diffusion) - Very active fork with optional, highly featureful [Gradio UI](https://github.com/hlky/stable-diffusion-webui) with support for txt2img, img2img inpainting, GFPGAN, ESGRAN, prompt weights, optimized low memory version, optional [textual-inversion](https://textual-inversion.github.io/) and more.
-* [lstein/stable-diffusion](https://github.com/lstein/stable-diffusion) - Very active fork adding a conversational cli interface, basic web interface, GFPGAN, ESRGAN, prompt weights, img2img, [textual-inversion](https://textual-inversion.github.io/) and Apple M1 support.
+* [hlky/stable-diffusion](https://github.com/hlky/stable-diffusion) - Very active fork with optional, highly featureful [Gradio UI](https://github.com/hlky/stable-diffusion-webui) and support for txt2img, img2img inpainting, GFPGAN, ESGRAN, weighted prompts, optimized low memory version, optional [textual-inversion](https://textual-inversion.github.io/) and more.
+* [lstein/stable-diffusion](https://github.com/lstein/stable-diffusion) - Very active fork adding a conversational CLI, basic web interface and support for GFPGAN, ESRGAN, weighted prompts, img2img, [textual-inversion](https://textual-inversion.github.io/) as well as inference on Apple M1.
 * [lowfuel/progrock-stable](https://github.com/lowfuel/progrock-stable) - Fork with optional Web GUI and a different approach to upscaling (GoBIG/ESRGAN)
-  * [txt2imghd](https://github.com/jquesnelle/txt2imghd) - Fork of progrock diffusion that creates detailed, higher-resolution images by first generating an image from a prompt, upscaling it, and then running img2img on smaller pieces of the upscaled image, and blending the result back into the original image.
+  * [txt2imghd](https://github.com/jquesnelle/txt2imghd) - Fork of progrock diffusion that creates detailed, higher-resolution images by first generating an image from a prompt, upscaling it, then running img2img on smaller pieces of the upscaled image, and blending the results back into the original image.
 * [replicate/copg-stable-diffusion](https://github.com/replicate/cog-stable-diffusion) - [Cog machine learning container](https://github.com/replicate/cog) of SD v1.4
-* [stable-diffusion-jupyterlab-docker](https://github.com/pieroit/stable-diffusion-jupyterlab-docker) - A docker setup ready to go with jupyter notebooks for stable diffusion. 
+* [stable-diffusion-jupyterlab-docker](https://github.com/pieroit/stable-diffusion-jupyterlab-docker) - A Docker setup ready to go with Jupyter notebooks for Stable Diffusion. 
 
 ## Models and Weights
 
