@@ -57,7 +57,7 @@ Tools and models for use in conjuction with Stable Diffusion.
 
 ### GUIS
 
-* [hlky/stable-diffusion-webui](https://github.com/hlky/stable-diffusion-webui) - GradIO based web UI from the hlsk/stable-diffusion fork with support for txt2img, img2img (with basic mask editor), GAFPGAN and RealESRGAN.
+* [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) - GradIO based web UI from the hlsk/stable-diffusion fork with support for txt2img, img2img (with basic mask editor), GAFPGAN and RealESRGAN.
 * [Stable Diffusion GRisk GUI ]([https://grisk.itch.io/stable-diffusion-gui]) - Windows GUI binary for SD.
 
 
@@ -99,7 +99,7 @@ Tutorials and high quality edutcational resources.
 * [Installing on Windows](https://rentry.org/SDInstallation) - A guide to install and run SD on Windows with c
 * [Running on M1 Apple Silicon](https://www.reddit.com/r/StableDiffusion/comments/wx0tkn/stablediffusion_runs_on_m1_chips/) - Reddit thread with instructions on how to run Stable Diffusion on Apple M1 CPU and GPU.
 * [Easy CPU-only Stable Diffusion](https://rentry.org/cpu_stable_diffusion_guide) - Easy CPU-only stable diffusion without littering too much your GNU/Linux system
-* ["Ultimate GUI Retard Guide](https://rentry.org/GUItard) - Tutorial for installing the [hlky fork](https://github.com/hlky/stable-diffusion) along with it's [WebUI](https://github.com/hlky/stable-diffusion-webui).
+* ["Ultimate GUI Retard Guide](https://rentry.org/GUItard) - Tutorial for installing the [sd-webui fork](https://github.com/sd-webui/stable-diffusion-webui).
 
 ### Learning and mastering
 
