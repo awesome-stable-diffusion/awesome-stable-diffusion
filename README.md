@@ -26,8 +26,10 @@ All forks listed here add additional features and optimisations and are generall
 
 * [bes-dev/stable_diffusion.openvino](https://github.com/bes-dev/stable_diffusion.openvino) - A fork for running the model using a CPU compatible with OpenVINO.
 
-* [hlky/stable-diffusion](https://github.com/hlky/stable-diffusion) - Very active fork with optional, highly featureful [Gradio UI](https://github.com/hlky/stable-diffusion-webui) and support for txt2img, img2img inpainting, GFPGAN, ESRGAN, weighted prompts, optimized low memory version, optional [textual-inversion](https://textual-inversion.github.io/) and more.
+* [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) - Very active fork with optional, highly featureful Gradio UI and support for txt2img, img2img inpainting, GFPGAN, ESRGAN, weighted prompts, optimized low memory version, optional [textual-inversion](https://textual-inversion.github.io/) and more.
+
 * [lstein/stable-diffusion](https://github.com/lstein/stable-diffusion) - Very active fork adding a conversational CLI, basic web interface and support for GFPGAN, ESRGAN, weighted prompts, img2img, [textual-inversion](https://textual-inversion.github.io/) as well as inference on Apple M1.
+
 * [lowfuel/progrock-stable](https://github.com/lowfuel/progrock-stable) - Fork with optional Web GUI and a different approach to upscaling (GoBIG/ESRGAN)
   * [txt2imghd](https://github.com/jquesnelle/txt2imghd) - Fork of progrock diffusion that creates detailed, higher-resolution images by first generating an image from a prompt, upscaling it, then running img2img on smaller pieces of the upscaled image, and blending the results back into the original image.
 * [replicate/copg-stable-diffusion](https://github.com/replicate/cog-stable-diffusion) - [Cog machine learning container](https://github.com/replicate/cog) of SD v1.4.
@@ -56,8 +58,9 @@ Tools and models for use in conjuction with Stable Diffusion
 * [textual-inversion](https://github.com/rinongal/textual_inversion) - Addition of personalized content to Stable Diffusion without retraining the model ([Paper](https://textual-inversion.github.io/), [Paper2](https://dreambooth.github.io/)). 
 
 ### GUIS
-* [hlky/stable-diffusion-webui](https://github.com/hlky/stable-diffusion-webui) - GradIO based web UI from the hlsk/stable-diffusion fork with support for txt2img, img2img (with basic mask editor), GAFPGAN and RealESRGAN.
-* [Stable Diffusion GRisk GUI ](https://grisk.itch.io/stable-diffusion-gui) - Windows GUI binary for SD.
+* [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) - GradIO based web UI included in an active fork.
+* [Stable Diffusion GRisk GUI ]([https://grisk.itch.io/stable-diffusion-gui]) - Windows GUI binary for SD.
+
 
 
 ### Upscaling
@@ -92,12 +95,12 @@ Prompts are the instructions given to diffusion models to manipulate their outpu
 Tutorials and high quality educational resources
 
 ### Getting Up and Running
-
 * [Stable Diffusion How To](https://www.assemblyai.com/blog/how-to-run-stable-diffusion-locally-to-generate-images/) - A basic tutorial on getting Stable Diffusion up and running.
 * [Installing on Windows](https://rentry.org/SDInstallation) - A guide on installing and runing Stable Diffusion on Windows.
 * [Running on M1 Apple Silicon](https://www.reddit.com/r/StableDiffusion/comments/wx0tkn/stablediffusion_runs_on_m1_chips/) - Reddit thread with instructions on running Stable Diffusion on Apple M1 CPU and GPU.
 * [Easy CPU-only Stable Diffusion](https://rentry.org/cpu_stable_diffusion_guide) - A guide on setting up CPU-only Stable Diffusion for GNU/Linux without littering the system with dependencies.
-* ["Ultimate GUI Retard Guide"](https://rentry.org/GUItard) - Tutorial for installing the [hlky fork](https://github.com/hlky/stable-diffusion) along with its [WebUI](https://github.com/hlky/stable-diffusion-webui).
+* ["Ultimate GUI Retard Guide"](https://rentry.org/GUItard) - Tutorial for installing the [sd-webui fork](https://github.com/sd-webui/stable-diffusion-webui).
+
 
 ### Learning and Mastering
 
