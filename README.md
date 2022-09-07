@@ -26,7 +26,7 @@ All forks listed here add additional features and optimisations and are generall
 
 * [bes-dev/stable_diffusion.openvino](https://github.com/bes-dev/stable_diffusion.openvino) - Fork for running through CPU which is compatible with OpenVINO
 
-* [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) - Very active fork with optional, highly featureful [Gradio UI](https://github.com/hlky/stable-diffusion-webui) with support for txt2img, img2img inpainting, GFPGAN, ESGRAN, prompt weights, optimized low memory version, optional [textual-inversion](https://textual-inversion.github.io/) and more.
+* [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) - Very active fork with optional, highly featureful Gradio UI with support for txt2img, img2img inpainting, GFPGAN, ESGRAN, prompt weights, optimized low memory version, optional [textual-inversion](https://textual-inversion.github.io/) and more.
 * [lstein/stable-diffusion](https://github.com/lstein/stable-diffusion) - Very active fork adding a conversational cli interface, basic web interface, GFPGAN, ESRGAN, prompt weights, img2img, [textual-inversion](https://textual-inversion.github.io/) and Apple M1 support.
 * [lowfuel/progrock-stable](https://github.com/lowfuel/progrock-stable) - Fork with optional Web GUI and a different approach to upscaling (GoBIG/ESRGAN)
   * [txt2imghd](https://github.com/jquesnelle/txt2imghd) - Fork of progrock diffusion that creates detailed, higher-resolution images by first generating an image from a prompt, upscaling it, and then running img2img on smaller pieces of the upscaled image, and blending the result back into the original image.
