@@ -90,36 +90,36 @@ Prompts are the instructions given to diffusion models to manipulate their outpu
 
 ## Tutorials and Comparisons
 
-Tutorials and high quality edutcational resources.
+Tutorials and high quality educational resources
 
-### Getting up and running
+### Getting Up and Running
 
-* [Stable Diffusion How To](https://www.assemblyai.com/blog/how-to-run-stable-diffusion-locally-to-generate-images/) - A basic tutorial on how to get Stable Diffusion up and running.
-* [Installing on Windows](https://rentry.org/SDInstallation) - A guide to install and run SD on Windows with c
-* [Running on M1 Apple Silicon](https://www.reddit.com/r/StableDiffusion/comments/wx0tkn/stablediffusion_runs_on_m1_chips/) - Reddit thread with instructions on how to run Stable Diffusion on Apple M1 CPU and GPU.
-* [Easy CPU-only Stable Diffusion](https://rentry.org/cpu_stable_diffusion_guide) - Easy CPU-only stable diffusion without littering too much your GNU/Linux system
-* ["Ultimate GUI Retard Guide](https://rentry.org/GUItard) - Tutorial for installing the [hlky fork](https://github.com/hlky/stable-diffusion) along with it's [WebUI](https://github.com/hlky/stable-diffusion-webui).
+* [Stable Diffusion How To](https://www.assemblyai.com/blog/how-to-run-stable-diffusion-locally-to-generate-images/) - A basic tutorial on getting Stable Diffusion up and running.
+* [Installing on Windows](https://rentry.org/SDInstallation) - A guide on installing and runing Stable Diffusion on Windows.
+* [Running on M1 Apple Silicon](https://www.reddit.com/r/StableDiffusion/comments/wx0tkn/stablediffusion_runs_on_m1_chips/) - Reddit thread with instructions on running Stable Diffusion on Apple M1 CPU and GPU.
+* [Easy CPU-only Stable Diffusion](https://rentry.org/cpu_stable_diffusion_guide) - A guide on setting up CPU-only Stable Diffusion for GNU/Linux without littering the system with dependencies.
+* ["Ultimate GUI Retard Guide"](https://rentry.org/GUItard) - Tutorial for installing the [hlky fork](https://github.com/hlky/stable-diffusion) along with its [WebUI](https://github.com/hlky/stable-diffusion-webui).
 
-### Learning and mastering
+### Learning and Mastering
 
-* [Stable Diffusion Akashic Records](https://github.com/Maks-s/sd-akashic) - Comprehensive curated list of guides, studies, keywords, promts and artists.
+* [Stable Diffusion Akashic Records](https://github.com/Maks-s/sd-akashic) - A comprehensive curated list of guides, studies, keywords, prompts and artists.
 * [Sunny's Tips & Tricks](https://docs.google.com/document/u/1/d/1K6EqcsRut0InU-8jB0yOvBMGesf5Dndg5FwyuaYLqNc/mobilebasic) - Sunny's SD Tips & Tricks Google Doc with lots of visual comparisons and useful information.
-* [AI Image Generator Comparison](https://petapixel.com/2022/08/22/ai-image-generators-compared-side-by-side-reveals-stark-differences/) Visual comparison between Dall-e, Stable Diffusion and Midjourney by PetaPixel.com 
-* [Gettint great results at Stable Diffusion](https://old.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/) Guide on how to get images that don't suck. 
+* [AI Image Generator Comparison](https://petapixel.com/2022/08/22/ai-image-generators-compared-side-by-side-reveals-stark-differences/) - A visual comparison between Dall-e, Stable Diffusion and Midjourney by PetaPixel.com.
+* [Gettint great results at Stable Diffusion](https://old.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/) - A guide on generating images that don't suck.
 
-### Extending functionality
-* [Building a SD Discord Bot](https://replicate.com/blog/build-a-robot-artist-for-your-discord-server-with-stable-diffusion) - Tutorial on how to build a stable diffusion discord bot using python.
+### Extending Functionality
+* [Building a SD Discord Bot](https://replicate.com/blog/build-a-robot-artist-for-your-discord-server-with-stable-diffusion) - A tutorial on building a Stable Diffusion Discord bot using Python.
 
 
-## Community resources
-* [1 week of Stable Diffusion](https://multimodal.art/news/1-week-of-stable-diffusion) - Curated list of SD services, adaptations, user interfaces and integrations
+## Community Resources
+* [1 week of Stable Diffusion](https://multimodal.art/news/1-week-of-stable-diffusion) - A curated list of Stable Diffusion services, adaptations, user interfaces and integrations.
 
 ## Social Media
-* [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/) - Stable Diffusion Reddit.
+* [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/) - Stable Diffusion Subreddit.
 
 ## Online Services implementing Stable Diffusion
-* 🖊️💵 [Dream Studio](http://beta.dreamstudio.ai/) - Online Generation Platform by StabilityAI, the creators of Stable Diffusion. Similar to services like Dall-e or Midjourney, this operates on a credit model with some free allowance of credits given to signed up users on a monthly basis.
-* 🖊️💵 [dream.ai](https://www.dream.ai/) - Online Art Generation Service (mobile apps available) by Wombo.ai implementing Stable Diffusion.
+* 🖊️💵 [Dream Studio](http://beta.dreamstudio.ai/) - Online art generation service by StabilityAI, the creators of Stable Diffusion. Similar to services like DALL-E or Midjourney, this operates on a credit model with a free allowance of credits given to signed up users on a monthly basis.
+* 🖊️💵 [dream.ai](https://www.dream.ai/) - Online art generation service by Wombo.ai (mobile apps available).
 
 
 
