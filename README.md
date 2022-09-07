@@ -2,10 +2,10 @@
 
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is a list of Software and Resources for the [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release) AI Model.
+This is a list of software and resources for the [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release) AI model.
 
 - 🖊️ marks content that requires sign-up or account creation for a third party service outside github
-- 💵 marks content [Non-Free](https://en.wikipedia.org/wiki/Free_software), commercial content that may require any kind of payment.
+- 💵 marks [Non-Free](https://en.wikipedia.org/wiki/Free_software) content; commercial content that may require any kind of payment.
 
 Due to the fast moving nature of the topic, entries in the list may be removed at an expedited rate until the ecosystem matures.
 
@@ -13,9 +13,9 @@ See [Contributing](.github/CONTRIBUTING.md).
 
 ## Official Resources
 
-* **[CompVis/Stable Diffusion](https://github.com/CompVis/stable-diffusion)** - The official release of Stable Diffusion with cli, an AI-based Safety Classifier to (detect and suppresses sexualized content and all the necessary files to get running.
-* [stability-AI/stability-sdk](https://github.com/stability-AI/stability-sdk) - The official SDK to build python applications integrating against StabilityAI's cloud platform instead of hosting the model yourself. Operation requires an API Key (🖊️💵)
-* [Public Release Announcement](https://stability.ai/blog/stable-diffusion-public-release) - StabilityAI's public announcement on the release of Stable Diffusion.
+* **[CompVis/Stable Diffusion](https://github.com/CompVis/stable-diffusion)** - The official release of Stable Diffusion including a CLI, an AI-based Safety Classifier, which detects and suppresses sexualized content, and all the necessary files to get running.
+* [stability-AI/stability-sdk](https://github.com/stability-AI/stability-sdk) - The official SDK used to build python applications integrated with StabilityAI's cloud platform instead of hosting the model locally. Operation requires an API Key (🖊️💵).
+* [Public Release Announcement](https://stability.ai/blog/stable-diffusion-public-release) - StabilityAI's announcement about the public release of Stable Diffusion.
 * 🖊️ [Official Discord](https://discord.gg/stablediffusion) - The official Stable Diffusion Discord by StabilityAI.
 
 ## Actively Maintained Forks & Containers
