@@ -53,40 +53,39 @@ Models (.ckpt files) must be separately downloaded and are required to run Stabl
 Tools and models for use in conjuction with Stable Diffusion
 
 ### Customisation
-* [textual-inversion](https://github.com/rinongal/textual_inversion) - Adding your own personalized content to Stable Diffusion without retraining the model ([Paper](https://textual-inversion.github.io/), [Paper2](https://dreambooth.github.io/)). 
+* [textual-inversion](https://github.com/rinongal/textual_inversion) - Addition of personalized content to Stable Diffusion without retraining the model ([Paper](https://textual-inversion.github.io/), [Paper2](https://dreambooth.github.io/)). 
 
 ### GUIS
-
 * [hlky/stable-diffusion-webui](https://github.com/hlky/stable-diffusion-webui) - GradIO based web UI from the hlsk/stable-diffusion fork with support for txt2img, img2img (with basic mask editor), GAFPGAN and RealESRGAN.
-* [Stable Diffusion GRisk GUI ]([https://grisk.itch.io/stable-diffusion-gui]) - Windows GUI binary for SD.
+* [Stable Diffusion GRisk GUI ](https://grisk.itch.io/stable-diffusion-gui) - Windows GUI binary for SD.
 
 
 ### Upscaling
-* [RealESRGAN](https://github.com/xinntao/Real-ESRGAN) - ESRGAN Upscaling (2x, 4x) and content restoration, useful for overcoming. Python: ```pip install realesrgan```
-* [Cupscale](https://github.com/n00mkrad/cupscale) - Graphical User Interface to run various upscaling models, including ESRGAN and RealESRGAN
-* [BasicSR](https://github.com/XPixelGroup/BasicSR) - Open Source Upscaling and Restoration toolbox supporting.
-* [BSRGAN](https://github.com/cszn/BSRGAN) - BSRGAN - Another upscaling solution specialized in upscaling degraded images.
+* [RealESRGAN](https://github.com/xinntao/Real-ESRGAN) - ESRGAN Upscaling (2x, 4x) and content restoration. Python: ```pip install realesrgan```
+* [Cupscale](https://github.com/n00mkrad/cupscale) - GUI for running various upscaling models, including ESRGAN and RealESRGAN.
+* [BasicSR](https://github.com/XPixelGroup/BasicSR) - Open-source upscaling and restoration toolbox supporting several models.
+* [BSRGAN](https://github.com/cszn/BSRGAN) - BSRGAN—another upscaling solution specialized in upscaling degraded images.
 
 ### Content Restoration
-* [lama-cleaner](https://github.com/Sanster/lama-cleaner) - Content aware AI inpainting tool with useful for removing unwanted objects or defects from images. Python: ```pip install lama-cleaner```
-* [GFPGAN](https://github.com/TencentARC/GFPGAN) - Face Restoration GAN included in several forks for automatically fixing deformed faces commonly found in SD output.* 
-* [CodeFormer](https://github.com/sczhou/CodeFormer) - Another Face Restoration Model [Paper: Towards Robust Blind Face Restoration with Codebook Lookup Transformer](https://arxiv.org/abs/2206.11253).
+* [lama-cleaner](https://github.com/Sanster/lama-cleaner) - Content aware AI inpainting tool useful for removing unwanted objects or defects from images. Python: ```pip install lama-cleaner```
+* [GFPGAN](https://github.com/TencentARC/GFPGAN) - Face Restoration GAN included in several forks for automatically fixing the face deformation commonly found in SD output.
+* [CodeFormer](https://github.com/sczhou/CodeFormer) - Another Face Restoration model ([Paper](https://arxiv.org/abs/2206.11253)).
 
 ### Task Chaining
-* [chaiNNer](https://github.com/joeyballentine/chaiNNer) - Graphical Node Based Editor for chaining image processing tasks.
-* [ai-art-generator](https://github.com/rbbrdckybk/ai-art-generator) - AI Art Generation Suite combing SD and Models for high volume art generation.
+* [chaiNNer](https://github.com/joeyballentine/chaiNNer) - Graphical node-based editor for chaining image processing tasks.
+* [ai-art-generator](https://github.com/rbbrdckybk/ai-art-generator) - AI art generation suite combining Stable Diffusion and other models for high volume art generation.
 
 ### Prompt Building
 
-Prompts are the inputs used with diffusion models to manipulate their output. 
+Prompts are the instructions given to diffusion models to manipulate their output. 
 
 * [PromptoMania](https://promptomania.com/) - A visual prompt construction tool.
-* [Lexica.art](https://lexica.art/) - A searchable, visual database of images and the prompts settings used to recreate them.
+* [Lexica.art](https://lexica.art/) - A searchable, visual database of images and the prompts settings used to create them.
 * 🖊️[Phraser](https://phraser.tech/) - A visual prompt builder drawing on a database of examples. (Requires account creation)
-* [ai-art.com/modifiers](https://www.the-ai-art.com/modifiers) - A visual reference guide to keywords.
-* [pharmapsychotic/clip-interrogator](https://github.com/pharmapsychotic/clip-interrogator) - Jupiter Notebook for reverse engineering prompts from images.
-* [img2prompt](https://replicate.com/methexis-inc/img2prompt) - Upload image, get possible prompts for similar results (clip interrogator)
-* [rom1504/clip-retrieval](https://github.com/rom1504/clip-retrieval) - Reverse searches prompt keywords into the image dataset used by Stable Diffusion and other models. [Online GUI](https://rom1504.github.io/clip-retrieval/) available.
+* [ai-art.com/modifiers](https://www.the-ai-art.com/modifiers) - A visual reference guide for keywords.
+* [pharmapsychotic/clip-interrogator](https://github.com/pharmapsychotic/clip-interrogator) - Jupyter notebook uses CLIP models to suggest a prompt for images similar to a given image
+ * [Demo: img2prompt](https://replicate.com/methexis-inc/img2prompt)
+* [rom1504/clip-retrieval](https://github.com/rom1504/clip-retrieval) - Searches for prompt keywords in the datasets used in training Stable Diffusion and other models ([Online GUI](https://rom1504.github.io/clip-retrieval/)).
 
 
 ## Tutorials & Comparisons
