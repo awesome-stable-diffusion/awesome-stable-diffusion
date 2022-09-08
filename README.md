@@ -49,6 +49,7 @@ Models (.ckpt files) must be separately downloaded and are required to run Stabl
 * [HuggingFace/StabilityAI](https://huggingface.co/spaces/stabilityai/stable-diffusion) - The official demo on HuggingFace Spaces.
 * 🖊️💵 [Offical Colab](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb) - The official, optimized colab for running SD on Google Cloud. Due to VRAM requirements required Colab Pro to create images.
 * [andreasjansson/stable-diffusion-animation](https://replicate.com/andreasjansson/stable-diffusion-animation) - Animate between prompts.
+* 🖊️ [Stable Diffusion Interpolation](https://colab.research.google.com/drive/1EHZtFjQoRr-bns1It5mTcOVyZzZD9bBc?usp=sharing) - AA simple implementation of generating N interpolated images (Colab)
 
 ## Complementary Models and Tools
 
@@ -60,7 +61,6 @@ Tools and models for use in conjuction with Stable Diffusion
 ### GUIS
 * [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) - GradIO based web UI included in an active fork.
 * [Stable Diffusion GRisk GUI ]([https://grisk.itch.io/stable-diffusion-gui]) - Windows GUI binary for SD.
-
 
 
 ### Upscaling
@@ -107,7 +107,11 @@ Tutorials and high quality educational resources
 * [Stable Diffusion Akashic Records](https://github.com/Maks-s/sd-akashic) - A comprehensive curated list of guides, studies, keywords, prompts and artists.
 * [Sunny's Tips & Tricks](https://docs.google.com/document/u/1/d/1K6EqcsRut0InU-8jB0yOvBMGesf5Dndg5FwyuaYLqNc/mobilebasic) - Sunny's SD Tips & Tricks Google Doc with lots of visual comparisons and useful information.
 * [AI Image Generator Comparison](https://petapixel.com/2022/08/22/ai-image-generators-compared-side-by-side-reveals-stark-differences/) - A visual comparison between Dall-e, Stable Diffusion and Midjourney by PetaPixel.com.
-* [Gettint great results at Stable Diffusion](https://old.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/) - A guide on generating images that don't suck.
+* [Getting great results at Stable Diffusion](https://old.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/) - A guide on generating images that don't suck.
+
+### Studies
+* [Modifier Studies](https://proximacentaurib.notion.site/2b07d3195d5948c6a7e5836f9d535592?v=b5b75a67cc52483c9965cfc141f6f582) - Visual study of popular modifiers/keywords.
+* [Artist Studies](https://remidurant.com/artists/#) - Visual study of various artists.
 
 ### Extending Functionality
 * [Building a SD Discord Bot](https://replicate.com/blog/build-a-robot-artist-for-your-discord-server-with-stable-diffusion) - A tutorial on building a Stable Diffusion Discord bot using Python.
@@ -115,6 +119,7 @@ Tutorials and high quality educational resources
 
 ## Community Resources
 * [1 week of Stable Diffusion](https://multimodal.art/news/1-week-of-stable-diffusion) - A curated list of Stable Diffusion services, adaptations, user interfaces and integrations.
+* [pharmapsychotic.com/tools](https://pharmapsychotic.com/tools.htm) - A curated list of Tools and Resources for AI Art, including but not limited to Stable Diffusion.
 
 ## Social Media
 * [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/) - Stable Diffusion Subreddit.
