@@ -61,7 +61,7 @@ Tools and models for use in conjuction with Stable Diffusion
 ### GUIS
 * [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) - GradIO based web UI included in an active fork.
 * [Stable Diffusion GRisk GUI ]([https://grisk.itch.io/stable-diffusion-gui]) - Windows GUI binary for SD.
-
+* 🖊️💵 [Auto SD Workflow](https://www.patreon.com/auto_sd_workflow) - A UI for [lstein/stable-diffusion](https://github.com/lstein/stable-diffusion)'s dream.py with optimized UX for large-scale/production workflow around image synthesis. [Video Walkthrough](https://vimeo.com/748114237).
 
 ### Upscaling
 * [RealESRGAN](https://github.com/xinntao/Real-ESRGAN) - ESRGAN Upscaling (2x, 4x) and content restoration. Python: ```pip install realesrgan```
