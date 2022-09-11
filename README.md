@@ -54,6 +54,9 @@ Models (.ckpt files) must be separately downloaded and are required to run Stabl
 ## Complementary Models and Tools
 
 Tools and models for use in conjuction with Stable Diffusion
+### Img2Img
+
+* [Prompt to Prompt](https://github.com/bloc97/CrossAttentionControl) - Unofficial Implementation of Cross-attention-control for prompt to prompt image editing. 
 
 ### Customisation
 * [textual-inversion](https://github.com/rinongal/textual_inversion) - Addition of personalized content to Stable Diffusion without retraining the model ([Paper](https://textual-inversion.github.io/), [Paper2](https://dreambooth.github.io/)). 
