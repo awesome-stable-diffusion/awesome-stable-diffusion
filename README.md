@@ -125,6 +125,7 @@ Tutorials and high quality educational resources
 ## Community Resources
 * [1 week of Stable Diffusion](https://multimodal.art/news/1-week-of-stable-diffusion) - A curated list of Stable Diffusion services, adaptations, user interfaces and integrations.
 * [pharmapsychotic.com/tools](https://pharmapsychotic.com/tools.htm) - A curated list of Tools and Resources for AI Art, including but not limited to Stable Diffusion.
+* [Stable Diffusion Resources](https://stackdiary.com/stable-diffusion-resources/) - A thorough resource for answering pressing questions about Stable Diffusion, including guides, tutorials, and best software.
 
 ## Social Media
 * [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/) - Stable Diffusion Subreddit.
