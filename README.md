@@ -69,10 +69,11 @@ Tools and models for use in conjuction with Stable Diffusion
 * [Stable Diffusion GRisk GUI ]([https://grisk.itch.io/stable-diffusion-gui]) - Windows GUI binary for SD.
 
 ### Upscaling
-* [RealESRGAN](https://github.com/xinntao/Real-ESRGAN) - ESRGAN Upscaling (2x, 4x) and content restoration. Python: ```pip install realesrgan```
-* [Cupscale](https://github.com/n00mkrad/cupscale) - GUI for running various upscaling models, including ESRGAN and RealESRGAN.
 * [BasicSR](https://github.com/XPixelGroup/BasicSR) - Open-source upscaling and restoration toolbox supporting several models.
 * [BSRGAN](https://github.com/cszn/BSRGAN) - BSRGAN—another upscaling solution specialized in upscaling degraded images.
+* [Cupscale](https://github.com/n00mkrad/cupscale) - GUI for running various upscaling models, including ESRGAN and RealESRGAN.
+* [RealESRGAN](https://github.com/xinntao/Real-ESRGAN) - ESRGAN Upscaling (2x, 4x) and content restoration. Python: ```pip install realesrgan```
+* [jquesnelle/txt2imghd](https://github.com/jquesnelle/txt2imghd) - A port of the GOBIG mode from progrockdiffusion, providing high quality upscaling on top of txt2img.
 
 ### Content Restoration
 * [lama-cleaner](https://github.com/Sanster/lama-cleaner) - Content aware AI inpainting tool useful for removing unwanted objects or defects from images. Python: ```pip install lama-cleaner```
