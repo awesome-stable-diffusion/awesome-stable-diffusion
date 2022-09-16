@@ -89,9 +89,9 @@ Tools and models for use in conjuction with Stable Diffusion
 Prompts are the instructions given to diffusion models to manipulate their output. 
 
 * [PromptoMania](https://promptomania.com/) - A visual prompt construction tool.
-* [Lexica.art](https://lexica.art/) - A searchable, visual database of images and the prompts settings used to create them.
 * [krea.ai](https://www.krea.ai/) - Prompt search engine that also recommends similar prompts to the one that you click on. 
   - 🖊️ With account creation, you can like and save prompts in your own collections.
+* [Lexica.art](https://lexica.art/) - A searchable, visual database of images and the prompts settings used to create them.
 * 🖊️[Phraser](https://phraser.tech/) - A visual prompt builder drawing on a database of examples. (Requires account creation)
 * [ai-art.com/modifiers](https://www.the-ai-art.com/modifiers) - A visual reference guide for keywords.
 * [pharmapsychotic/clip-interrogator](https://github.com/pharmapsychotic/clip-interrogator) - Jupyter notebook uses CLIP models to suggest a prompt for images similar to a given image ([Demo](https://replicate.com/methexis-inc/img2prompt)).
