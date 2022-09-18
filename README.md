@@ -71,7 +71,7 @@ Tools and models for use in conjuction with Stable Diffusion
 
 Most of these GUIS, unless mentioned otherwise in their documentation, include stable-diffusion.
 
-* [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Gradio based UI with extensive features such as in and outpainting, previews, xy plots, upscaling and more
+* [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Gradio based UI with extensive features such as in and outpainting, previews, xy plots, upscaling and more. Comes with a handy install script that takes care of most dependencies and addons.
 * 🖊️💵 [Auto SD Workflow](https://www.patreon.com/auto_sd_workflow) - A UI for [lstein/stable-diffusion](https://github.com/lstein/stable-diffusion)'s dream.py with optimized UX for large-scale/production workflow around image synthesis. [Video Walkthrough](https://vimeo.com/748114237).
 * 🖊️ [DiffusionUI](https://github.com/leszekhanusz/diffusion-ui) - web UI made with Vue.js inspired by Dall-e using [diffusers](https://github.com/huggingface/diffusers), perfect for inpainting. [Video demo](https://www.youtube.com/watch?v=AFZvW5qURes)
 * 🖊️ [SD-MUI](https://sd-mui.vercel.app/) - mobile-first PWA made with React + MaterialUI.  Run free locally or use free & paid credits on the live site.  ([Source Code](https://github.com/gadicc/stable-diffusion-react-nextjs-mui-pwa)) `MIT License` `TypeScript`
