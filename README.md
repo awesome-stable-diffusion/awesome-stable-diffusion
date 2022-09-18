@@ -62,6 +62,8 @@ Tools and models for use in conjuction with Stable Diffusion
 
 ### Customisation
 * [textual-inversion](https://github.com/rinongal/textual_inversion) - Addition of personalized content to Stable Diffusion without retraining the model ([Paper](https://textual-inversion.github.io/), [Paper2](https://dreambooth.github.io/)). 
+* [sd-concepts-library](https://huggingface.co/sd-concepts-library) - A library of user created [textual-inversion](https://textual-inversion.github.io/) embeddings to add new concepts to stable diffusion
+
 
 ### GUIS
 * [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Gradio based UI with extensive features such as in and outpainting, previews, xy plots, upscaling and more
