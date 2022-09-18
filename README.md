@@ -49,7 +49,9 @@ Models (.ckpt files) must be separately downloaded and are required to run Stabl
 * [HuggingFace/StabilityAI](https://huggingface.co/spaces/stabilityai/stable-diffusion) - The official demo on HuggingFace Spaces.
 * 🖊️💵 [Offical Colab](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb) - The official, optimized colab for running SD on Google Cloud. Due to VRAM requirements required Colab Pro to create images.
 * [andreasjansson/stable-diffusion-animation](https://replicate.com/andreasjansson/stable-diffusion-animation) - Animate between prompts.
+* [Deforum](https://github.com/deforum/stable-diffusion) - Advanced notebook for Stable Diffusion with 2D, 3D, Video Input, and Interpolation animations. Includes inpainting, prompt batching, and more.
 * 🖊️ [Stable Diffusion Interpolation](https://colab.research.google.com/drive/1EHZtFjQoRr-bns1It5mTcOVyZzZD9bBc?usp=sharing) - AA simple implementation of generating N interpolated images (Colab)
+
 
 ## Complementary Models and Tools
 
