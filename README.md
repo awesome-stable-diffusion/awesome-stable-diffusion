@@ -70,7 +70,8 @@ Tools and models for use in conjuction with Stable Diffusion
 * 🖊️💵 [Auto SD Workflow](https://www.patreon.com/auto_sd_workflow) - A UI for [lstein/stable-diffusion](https://github.com/lstein/stable-diffusion)'s dream.py with optimized UX for large-scale/production workflow around image synthesis. [Video Walkthrough](https://vimeo.com/748114237).
 * 🖊️ [DiffusionUI](https://github.com/leszekhanusz/diffusion-ui) - web UI made with Vue.js inspired by Dall-e using [diffusers](https://github.com/huggingface/diffusers), perfect for inpainting. [Video demo](https://www.youtube.com/watch?v=AFZvW5qURes)
 * 🖊️ [SD-MUI](https://sd-mui.vercel.app/) - mobile-first PWA made with React + MaterialUI.  Run free locally or use free & paid credits on the live site.  ([Source Code](https://github.com/gadicc/stable-diffusion-react-nextjs-mui-pwa)) `MIT License` `TypeScript`
-* [Stable Diffusion GRisk GUI ]([https://grisk.itch.io/stable-diffusion-gui]) - Windows GUI binary for SD.
+* [Stable Diffusion GRisk GUI ]([https://grisk.itch.io/stable-diffusion-gui]) - Windows GUI binary for SD. Closed source so use at your own risk.
+* [Stable Diffusion Infinity](https://github.com/lkwq007/stablediffusion-infinity) - A proof of concept for outpainting with an infinite canvas interface. (requires powerful GPU).
 
 ### Upscaling
 * [BasicSR](https://github.com/XPixelGroup/BasicSR) - Open-source upscaling and restoration toolbox supporting several models.
