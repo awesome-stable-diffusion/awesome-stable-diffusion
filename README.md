@@ -28,7 +28,7 @@ All forks listed here add additional features and optimisations and are generall
 
 * [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) - Very active fork with optional, highly featureful Gradio UI and support for txt2img, img2img inpainting, GFPGAN, ESRGAN, weighted prompts, optimized low memory version, optional [textual-inversion](https://textual-inversion.github.io/) and more.
 
-* [lstein/stable-diffusion](https://github.com/lstein/stable-diffusion) - Very active fork adding a conversational CLI, basic web interface and support for GFPGAN, ESRGAN, weighted prompts, img2img, [textual-inversion](https://textual-inversion.github.io/) as well as inference on Apple M1.
+* [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - (formerly known as lstein/stable-diffusion) - Very active fork adding a conversational CLI, basic web interface and support for GFPGAN, ESRGAN, weighted prompts, img2img, tiling, [textual-inversion](https://textual-inversion.github.io/) as well as inference on Apple M1.
 
 * [lowfuel/progrock-stable](https://github.com/lowfuel/progrock-stable) - Fork with optional Web GUI and a different approach to upscaling (GoBIG/ESRGAN)
   * [txt2imghd](https://github.com/jquesnelle/txt2imghd) - Fork of progrock diffusion that creates detailed, higher-resolution images by first generating an image from a prompt, upscaling it, then running img2img on smaller pieces of the upscaled image, and blending the results back into the original image.
