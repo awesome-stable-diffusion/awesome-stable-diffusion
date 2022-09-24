@@ -80,6 +80,7 @@ Most of these GUIS, unless mentioned otherwise in their documentation, include s
 * 🖊️ [SD-MUI](https://sd-mui.vercel.app/) - mobile-first PWA made with React + MaterialUI.  Run free locally or use free & paid credits on the live site.  ([Source Code](https://github.com/gadicc/stable-diffusion-react-nextjs-mui-pwa)) `MIT License` `TypeScript`
 * [Stable Diffusion GRisk GUI ]([https://grisk.itch.io/stable-diffusion-gui]) - Windows GUI binary for SD. Closed source so use at your own risk.
 * [Stable Diffusion Infinity](https://github.com/lkwq007/stablediffusion-infinity) - A proof of concept for outpainting with an infinite canvas interface. (requires powerful GPU).
+* [Unstable Fusion](https://github.com/ahrm/UnstableFusion) - A Stable Diffusion desktop frontend with inpainting, img2img and more
 
 ### Upscaling
 * [BasicSR](https://github.com/XPixelGroup/BasicSR) - Open-source upscaling and restoration toolbox supporting several models.
