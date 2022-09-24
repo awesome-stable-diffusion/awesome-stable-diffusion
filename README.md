@@ -75,10 +75,11 @@ Most of these GUIS, unless mentioned otherwise in their documentation, include s
 
 * [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Gradio based UI with extensive features such as in and outpainting, previews, xy plots, upscaling and more. Comes with a handy install script that takes care of most dependencies and addons.
 * 🖊️💵 [Auto SD Workflow](https://www.patreon.com/auto_sd_workflow) - A UI for [lstein/stable-diffusion](https://github.com/lstein/stable-diffusion)'s dream.py with optimized UX for large-scale/production workflow around image synthesis. [Video Walkthrough](https://vimeo.com/748114237).
+* [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Another, simple to use UI for windows and Linux
 * 🖊️ [DiffusionUI](https://github.com/leszekhanusz/diffusion-ui) - web UI made with Vue.js inspired by Dall-e using [diffusers](https://github.com/huggingface/diffusers), perfect for inpainting. [Video demo](https://www.youtube.com/watch?v=AFZvW5qURes)
 * 💵 [NMKD GUI](https://nmkd.itch.io/t2i-gui) - Windows UI, fully featured. Closed source. Pick your own price.
 * 🖊️ [SD-MUI](https://sd-mui.vercel.app/) - mobile-first PWA made with React + MaterialUI.  Run free locally or use free & paid credits on the live site.  ([Source Code](https://github.com/gadicc/stable-diffusion-react-nextjs-mui-pwa)) `MIT License` `TypeScript`
-* [Stable Diffusion GRisk GUI ]([https://grisk.itch.io/stable-diffusion-gui]) - Windows GUI binary for SD. Closed source so use at your own risk.
+* [Stable Diffusion GRisk GUI]([https://grisk.itch.io/stable-diffusion-gui) - Windows GUI binary for SD. Closed source so use at your own risk.
 * [Stable Diffusion Infinity](https://github.com/lkwq007/stablediffusion-infinity) - A proof of concept for outpainting with an infinite canvas interface. (requires powerful GPU).
 * [Unstable Fusion](https://github.com/ahrm/UnstableFusion) - A Stable Diffusion desktop frontend with inpainting, img2img and more
 
