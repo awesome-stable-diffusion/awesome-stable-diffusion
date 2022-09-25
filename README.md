@@ -53,7 +53,7 @@ Models (.ckpt files) must be separately downloaded and are required to run Stabl
 * [andreasjansson/stable-diffusion-animation](https://replicate.com/andreasjansson/stable-diffusion-animation) - Animate between prompts.
 * [Deforum](https://github.com/deforum/stable-diffusion) - Advanced notebook for Stable Diffusion with 2D, 3D, Video Input, and Interpolation animations. Includes inpainting, prompt batching, and more.
 * 🖊️ [Stable Diffusion Interpolation](https://colab.research.google.com/drive/1EHZtFjQoRr-bns1It5mTcOVyZzZD9bBc?usp=sharing) - AA simple implementation of generating N interpolated images (Colab)
-
+* [huggingface/diffuse-the-rest](https://huggingface.co/spaces/huggingface/diffuse-the-rest) - Diffuse the Rest - img2img from simple sketches or uploaded images.
 
 ## Complementary Models and Tools
 
