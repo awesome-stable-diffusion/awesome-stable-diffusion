@@ -113,6 +113,7 @@ Prompts are the instructions given to diffusion models to manipulate their outpu
 * [PromptoMania](https://promptomania.com/) - A visual prompt construction tool.
 * [rom1504/clip-retrieval](https://github.com/rom1504/clip-retrieval) - Searches for prompt keywords in the datasets used in training Stable Diffusion and other models ([Online GUI](https://rom1504.github.io/clip-retrieval/)).
 * [Stable Diffusion Prompt Generator](https://huggingface.co/Gustavosta/MagicPrompt-Stable-Diffusion) - Gives suggestions for improving a given text prompt.
+* [PromptSearch](https://pagebrain.ai/promptsearch/?q=&page=1) - Yet another Stable Diffusion search engine but with public API
 
 ### Specialized Usecases
 
