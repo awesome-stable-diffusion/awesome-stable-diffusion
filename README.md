@@ -75,6 +75,7 @@ Tools and models for use in conjuction with Stable Diffusion
 Most of these GUIS, unless mentioned otherwise in their documentation, include stable-diffusion.
 
 * [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Gradio based UI with extensive features such as in and outpainting, previews, xy plots, upscaling and more. Comes with a handy install script that takes care of most dependencies and addons.
+   * Addon: [txt2Mask](https://github.com/ThereforeGames/txt2mask) - Addon for mask based inpainting using natural language instead of brush tools.
 * 🖊️💵 [Auto SD Workflow](https://www.patreon.com/auto_sd_workflow) - A UI for [lstein/stable-diffusion](https://github.com/lstein/stable-diffusion)'s dream.py with optimized UX for large-scale/production workflow around image synthesis. [Video Walkthrough](https://vimeo.com/748114237).
 * [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Another, simple to use UI for windows and Linux
 * 🖊️ [DiffusionUI](https://github.com/leszekhanusz/diffusion-ui) - web UI made with Vue.js inspired by Dall-e using [diffusers](https://github.com/huggingface/diffusers), perfect for inpainting. [Video demo](https://www.youtube.com/watch?v=AFZvW5qURes)
