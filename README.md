@@ -168,6 +168,7 @@ Tutorials and high quality educational resources
 * 🖊️💵 [dream.ai](https://www.dream.ai/) - Online art generation service by Wombo.ai (mobile apps available).
 * 🖊️💵 [Image Computer](https://image.computer) - Easy-to-use service aimed at non-technical people (comes with free trial credits)
 * 🖊️💵 [replicate.com stable diffusion](https://replicate.com/stability-ai/stable-diffusion) - Another SaaS offering for Stable Diffusion.
+* 🖊️💵 [AI Art Generator](https://apps.apple.com/app/apple-store/id1644315225?pt=94765902&ct=github&mt=8) - iOS App to generate art using Stable Diffusion.
 
 
 
