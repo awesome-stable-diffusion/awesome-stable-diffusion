@@ -26,6 +26,8 @@ All forks listed here add additional features and optimisations and are generall
 
 * [bes-dev/stable_diffusion.openvino](https://github.com/bes-dev/stable_diffusion.openvino) - A fork for running the model using a CPU compatible with OpenVINO.
 
+* [imaginAIry](https://github.com/brycedrennan/imaginAIry) - Pythonic generation of stable diffusion images. Unique in that it supports complex text-based masking. Has an interactive CLI, upscaling, face enhancement, tiling, and other standard features. No GUI.
+
 * [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - (formerly known as lstein/stable-diffusion) - Very active fork adding a conversational CLI, basic web interface and support for GFPGAN, ESRGAN, weighted prompts, img2img, tiling, [textual-inversion](https://textual-inversion.github.io/) as well as inference on Apple M1.
 
 * [KerasCV StableDiffusion](https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/) - High performance implementation of stable diffusion on KerasCV.
