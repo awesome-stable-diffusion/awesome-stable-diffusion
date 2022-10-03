@@ -39,6 +39,7 @@ All forks listed here add additional features and optimisations and are generall
 * [NickLucche/stable-diffusion-nvidia-docker](https://github.com/NickLucche/stable-diffusion-nvidia-docker) - Multi (Nvidia) GPU capable docker setup of SD
 * [replicate/copg-stable-diffusion](https://github.com/replicate/cog-stable-diffusion) - [Cog machine learning container](https://github.com/replicate/cog) of SD v1.4.
 * [stable-diffusion-jupyterlab-docker](https://github.com/pieroit/stable-diffusion-jupyterlab-docker) - A Docker setup ready to go with Jupyter notebooks for Stable Diffusion. 
+* [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for SD with multiple user-friendly UI options including [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui), [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) and [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) (temporarily disabled).
 
 ## Models and Weights
 
@@ -48,7 +49,7 @@ Models (.ckpt files) must be separately downloaded and are required to run Stabl
  * [stable-diffusion-v-1-4-original.chkpt](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original) - The latest model's card
 * [RealESRGAN Models](https://github.com/xinntao/Real-ESRGAN/releases/) - Download location for the latest RealESRGAN models required to use the upscaling features implemented by many forks. Different models exist for realistic and anime content. Please refer to the fork documentation to identify the ones you need.
 
- 
+
 ## Online Demos and Notebooks
 
 * [HuggingFace/StabilityAI](https://huggingface.co/spaces/stabilityai/stable-diffusion) - The official demo on HuggingFace Spaces.
