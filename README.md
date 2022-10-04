@@ -66,7 +66,7 @@ Tools and models for use in conjuction with Stable Diffusion
 ### Img2Img
 
 * [Prompt to Prompt](https://github.com/bloc97/CrossAttentionControl) - Unofficial Implementation of Cross-attention-control for prompt to prompt image editing. 
-
+* [sd-prompt-graph](https://github.com/trevbook/sd-prompt-graph) - This is a React-based curve editor GUI for prompt interpolation animations made with Stable Diffusion.
 ### Customisation
 * [Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) - Implementation of [Google's DreamBooth](https://arxiv.org/abs/2208.12242) for stable diffusion, allowing fine-tuning of the model for specific concepts.
 * [textual-inversion](https://github.com/rinongal/textual_inversion) - Addition of personalized content to Stable Diffusion without retraining the model ([Paper](https://textual-inversion.github.io/), [Paper2](https://dreambooth.github.io/)). 
