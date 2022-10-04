@@ -22,6 +22,8 @@ See [Contributing](.github/CONTRIBUTING.md).
 
 All forks listed here add additional features and optimisations and are generally faster than the original release, as they keep the model in memory rather than reloading it after every prompt. Most forks seem to remove the Safety Classifier which may present a risk if used to provide public-facing services, such as Discord bots.
 
+* [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for SD with multiple user-friendly UI options including [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui), [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) and [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) (temporarily disabled).
+
 * [basujindal/stable-diffusion](https://github.com/basujindal/stable-diffusion) - "Optimized Stable Diffusion"—a fork with dramatically reduced VRAM requirements through model splitting, enabling Stable Diffusion on lower-end graphics cards; includes a GradIO web interface and support for weighted prompts. 
 
 * [bes-dev/stable_diffusion.openvino](https://github.com/bes-dev/stable_diffusion.openvino) - A fork for running the model using a CPU compatible with OpenVINO.
@@ -48,7 +50,7 @@ Models (.ckpt files) must be separately downloaded and are required to run Stabl
  * [stable-diffusion-v-1-4-original.chkpt](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original) - The latest model's card
 * [RealESRGAN Models](https://github.com/xinntao/Real-ESRGAN/releases/) - Download location for the latest RealESRGAN models required to use the upscaling features implemented by many forks. Different models exist for realistic and anime content. Please refer to the fork documentation to identify the ones you need.
 
- 
+
 ## Online Demos and Notebooks
 
 * [HuggingFace/StabilityAI](https://huggingface.co/spaces/stabilityai/stable-diffusion) - The official demo on HuggingFace Spaces.
