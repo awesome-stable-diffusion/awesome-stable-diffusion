@@ -175,6 +175,4 @@ Tutorials and high quality educational resources
 * 🖊️💵 [Neural.love](https://neural.love/ai-art-generator) - Another online art generator with generous free credits as of Oct 2022. 
 * 🖊️💵 [replicate.com stable diffusion](https://replicate.com/stability-ai/stable-diffusion) - Another SaaS offering for Stable Diffusion.
 * 🖊️💵 [Starry AI (IOS)](https://apps.apple.com/us/app/starryai-create-art-with-ai/id1580512844) - Another IOS app offering stable diffusion with preset art styles. 
-
-
-
+* 🖊️ [Stable Horde](https://stablehorde.net/) - Distributed stable diffusion cluster (think folding@home) with web, discord and telegram interfaces where joining with your GPU gives you priority. 
