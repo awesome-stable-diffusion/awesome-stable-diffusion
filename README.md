@@ -78,7 +78,7 @@ Tools and models for use in conjuction with Stable Diffusion
 
 Most of these GUIS, unless mentioned otherwise in their documentation, include stable-diffusion.
 
-* [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Gradio based UI with extensive features such as in and outpainting, previews, xy plots, upscaling and more. Comes with a handy install script that takes care of most dependencies and addons.
+* [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Gradio based UI with extensive features such as in and outpainting, previews, xy plots, upscaling, clip-interrogation, textual inversion and more. Comes with a handy install script that takes care of most dependencies and addons.
    * Addon: [txt2Mask](https://github.com/ThereforeGames/txt2mask) - Addon for mask based inpainting using natural language instead of brush tools.
 * 🖊️💵 [Auto SD Workflow](https://www.patreon.com/auto_sd_workflow) - A UI for [lstein/stable-diffusion](https://github.com/lstein/stable-diffusion)'s dream.py with optimized UX for large-scale/production workflow around image synthesis. [Video Walkthrough](https://vimeo.com/748114237).
 * [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Another, simple to use UI for windows and Linux.
@@ -123,6 +123,7 @@ Prompts are the instructions given to diffusion models to manipulate their outpu
 * [rom1504/clip-retrieval](https://github.com/rom1504/clip-retrieval) - Searches for prompt keywords in the datasets used in training Stable Diffusion and other models ([Online GUI](https://rom1504.github.io/clip-retrieval/)).
 * [Stable Diffusion Prompt Generator](https://huggingface.co/Gustavosta/MagicPrompt-Stable-Diffusion) - Gives suggestions for improving a given text prompt.
 * [PromptSearch](https://pagebrain.ai/promptsearch/?q=&page=1) - Yet another Stable Diffusion search engine but with public API
+* [Same Energy](https://same.energy/) - A visual search engine that returns images that have the same 'energy'. 
 
 ### Specialized Usecases
 
