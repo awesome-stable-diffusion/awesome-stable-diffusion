@@ -150,8 +150,10 @@ Tutorials and high quality educational resources
 * [Getting great results at Stable Diffusion](https://old.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/) - A guide on generating images that don't suck.
 
 
-### Courses
+### Learning and Courses
+* [Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) - An illustrated primer on how Stable Diffusion works.
 * [Practical deep learning for coders](https://course.fast.ai/) - high quality course by fast.ai aimed at coders that covers many aspects of deep learning, including stable-diffusion.
+
 
 
 ### Studies
