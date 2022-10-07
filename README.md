@@ -127,7 +127,7 @@ Prompts are the instructions given to diffusion models to manipulate their outpu
 ### Specialized Usecases
 
 * [dream-textures](https://github.com/carson-katri/dream-textures) - A blender addon leveraging stable diffusion for texture creation.
-* 
+* [stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - An open source implementation of Google's text-to-3D dreamfusion paper with imagegen replaced by stable diffusion. 
 
 ## Tutorials and Comparisons
 
