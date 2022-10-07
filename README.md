@@ -169,7 +169,7 @@ Tutorials and high quality educational resources
 ## Social Media
 * [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/) - Stable Diffusion Subreddit.
 
-## SaaS and apps implementing Stable Diffusion
+## Commercial SaaS and apps implementing Stable Diffusion
 * 🖊️💵 [AI Art Generator (IOS)](https://apps.apple.com/app/apple-store/id1644315225?pt=94765902&ct=github&mt=8) - iOS App to generate art using Stable Diffusion.
 * 🖊️💵 [Barium.ai](https://barium.ai/) - Generate PBR (physics based rendering) textures from text. Free and paid plans.
 * 🖊️💵 [Canva text-to-image](https://www.canva.com/apps/text-to-image-(beta) ) - Text-to-image (beta) service from Canva
@@ -180,3 +180,4 @@ Tutorials and high quality educational resources
 * 🖊️💵 [replicate.com stable diffusion](https://replicate.com/stability-ai/stable-diffusion) - Another SaaS offering for Stable Diffusion.
 * 🖊️💵 [Starry AI (IOS)](https://apps.apple.com/us/app/starryai-create-art-with-ai/id1580512844) - Another IOS app offering stable diffusion with preset art styles. 
 * 🖊️ [Stable Horde](https://stablehorde.net/) - Distributed stable diffusion cluster (think folding@home) with web, discord and telegram interfaces where joining with your GPU gives you priority. 
+* 🖊️💵 [Stable Diffusion as API](https://stablediffusionapi.com/) - Third party REST API into table Diffusion service.
