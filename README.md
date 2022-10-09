@@ -84,8 +84,8 @@ Most of these GUIS, unless mentioned otherwise in their documentation, include s
 * [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Another, simple to use UI for windows and Linux.
 * [DiffusionBee](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Self contained binary app for MacOS.
 * 🖊️ [DiffusionUI](https://github.com/leszekhanusz/diffusion-ui) - web UI made with Vue.js inspired by Dall-e using [diffusers](https://github.com/huggingface/diffusers), perfect for inpainting. [Video demo](https://www.youtube.com/watch?v=AFZvW5qURes)
+* 🖊️ [KIRI.ART](https://kiri.art/) (formerly SD-MUI) - mobile-first PWA with multiple models (incl. waifu diffusion).  Run free locally or use free & paid credits on the live site.  Built with React + MaterialUI.  ([Source Code](https://github.com/gadicc/stable-diffusion-react-nextjs-mui-pwa)) `MIT License` `TypeScript`
 * 💵 [NMKD GUI](https://nmkd.itch.io/t2i-gui) - Windows UI, fully featured. Closed source. Pick your own price.
-* 🖊️ [SD-MUI](https://sd-mui.vercel.app/) - mobile-first PWA made with React + MaterialUI.  Run free locally or use free & paid credits on the live site.  ([Source Code](https://github.com/gadicc/stable-diffusion-react-nextjs-mui-pwa)) `MIT License` `TypeScript`
 * [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) - Very active fork with optional, highly featureful Gradio UI and support for txt2img, img2img inpainting, GFPGAN, ESRGAN, weighted prompts, optimized low memory version, optional [textual-inversion](https://textual-inversion.github.io/) and more.
 * [Stable Diffusion GRisk GUI]([https://grisk.itch.io/stable-diffusion-gui) - Windows GUI binary for SD. Closed source so use at your own risk.
 * [Stable Diffusion Infinity](https://github.com/lkwq007/stablediffusion-infinity) - A proof of concept for outpainting with an infinite canvas interface. (requires powerful GPU).
