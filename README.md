@@ -107,6 +107,7 @@ Most of these GUIS, unless mentioned otherwise in their documentation, include s
 ### Task Chaining
 * [chaiNNer](https://github.com/joeyballentine/chaiNNer) - Graphical node-based editor for chaining image processing tasks.
 * [ai-art-generator](https://github.com/rbbrdckybk/ai-art-generator) - AI art generation suite combining Stable Diffusion and other models for high volume art generation.
+* [dfserver](https://github.com/huo-ju/dfserver) distributed backend AI pipeline server for building self-hosted distributed GPU cluster to run the Stable Diffusion and various AI image or prompt building model.
 
 ### Prompt Building
 
