@@ -124,6 +124,7 @@ Prompts are the instructions given to diffusion models to manipulate their outpu
 * [Stable Diffusion Prompt Generator](https://huggingface.co/Gustavosta/MagicPrompt-Stable-Diffusion) - Gives suggestions for improving a given text prompt.
 * [PromptSearch](https://pagebrain.ai/promptsearch/?q=&page=1) - Yet another Stable Diffusion search engine but with public API
 * [Same Energy](https://same.energy/) - A visual search engine that returns images that have the same 'energy'. 
+* [PublicPrompts](https://publicprompts.art/) - *Collection* of PublicPrompts
 
 ### Specialized Usecases
 
