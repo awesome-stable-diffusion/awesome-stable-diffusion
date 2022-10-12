@@ -98,6 +98,7 @@ Most of these GUIS, unless mentioned otherwise in their documentation, include s
 * [Cupscale](https://github.com/n00mkrad/cupscale) - GUI for running various upscaling models, including ESRGAN and RealESRGAN.
 * [RealESRGAN](https://github.com/xinntao/Real-ESRGAN) - ESRGAN Upscaling (2x, 4x) and content restoration. Python: ```pip install realesrgan```
 * [jquesnelle/txt2imghd](https://github.com/jquesnelle/txt2imghd) - A port of the GOBIG mode from progrockdiffusion, providing high quality upscaling on top of txt2img.
+* [Upscale Wiki Model Database](https://upscale.wiki/wiki/Model_Database) - Wiki and model database for checkpoints compatible with ESRGAN et al.
 
 ### Content Restoration
 * [lama-cleaner](https://github.com/Sanster/lama-cleaner) - Content aware AI inpainting tool useful for removing unwanted objects or defects from images. Python: ```pip install lama-cleaner```
