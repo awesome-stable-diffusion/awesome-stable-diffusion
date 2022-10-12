@@ -172,7 +172,8 @@ Tutorials and high quality educational resources
 * [Stable Diffusion Resources](https://stackdiary.com/stable-diffusion-resources/) - A thorough resource for answering pressing questions about Stable Diffusion, including guides, tutorials, and best software.
 
 ## Social Media
-* [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/) - Stable Diffusion Subreddit.
+* [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/) - Stable Diffusion Subreddit. (Semi-official)
+* [r/sdforall](https://www.reddit.com/r/sdforall) - SDForAll
 
 ## Commercial SaaS and apps implementing Stable Diffusion
 * 🖊️💵 [AI Art Generator (IOS)](https://apps.apple.com/app/apple-store/id1644315225?pt=94765902&ct=github&mt=8) - iOS App to generate art using Stable Diffusion.
