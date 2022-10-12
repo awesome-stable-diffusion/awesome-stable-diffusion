@@ -23,14 +23,14 @@ See [Contributing](.github/CONTRIBUTING.md).
 All forks listed here add additional features and optimisations and are generally faster than the original release, as they keep the model in memory rather than reloading it after every prompt. Most forks seem to remove the Safety Classifier which may present a risk if used to provide public-facing services, such as Discord bots.
 
 * [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for SD with multiple user-friendly UI options including [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui), [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) and [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) (temporarily disabled).
-
+ 
 * [basujindal/stable-diffusion](https://github.com/basujindal/stable-diffusion) - "Optimized Stable Diffusion"—a fork with dramatically reduced VRAM requirements through model splitting, enabling Stable Diffusion on lower-end graphics cards; includes a GradIO web interface and support for weighted prompts. 
 
 * [bes-dev/stable_diffusion.openvino](https://github.com/bes-dev/stable_diffusion.openvino) - A fork for running the model using a CPU compatible with OpenVINO.
 * [fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - Speed focused fork with Dreambooth integration. 
 * [imaginAIry](https://github.com/brycedrennan/imaginAIry) - Pythonic generation of stable diffusion images. Unique in that it supports complex text-based masking. Has an interactive CLI, upscaling, face enhancement, tiling, and other standard features. No GUI.
 
-* [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - (formerly known as lstein/stable-diffusion) - Very active fork adding a conversational CLI, basic web interface and support for GFPGAN, ESRGAN, weighted prompts, img2img, tiling, [textual-inversion](https://textual-inversion.github.io/) as well as inference on Apple M1.
+* [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - (formerly known as lstein/stable-diffusion) - Very active fork adding a conversational CLI, basic web interface and support for GFPGAN, ESRGAN, Codeformer, weighted prompts, prompt blending, negative prompting, img2img, tiling, [textual-inversion](https://textual-inversion.github.io/) as well as inference on Apple M1.
 
 * [KerasCV StableDiffusion](https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/) - High performance implementation of stable diffusion on KerasCV.
 
@@ -78,7 +78,7 @@ Tools and models for use in conjuction with Stable Diffusion
 
 Most of these GUIS, unless mentioned otherwise in their documentation, include stable-diffusion.
 
-* [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Gradio based UI with extensive features such as in and outpainting, previews, xy plots, upscaling, clip-interrogation, textual inversion and more. Comes with a handy install script that takes care of most dependencies and addons.
+* [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Gradio based UI with extensive features such as in and outpainting, previews, xy plots, upscaling, clip-interrogation, textual inversion, negative prompting, a variety of upscaling features, checkpoint merging and switching capabilities and more. Comes with a handy install script that takes care of most dependencies and addons.
    * Addon: [txt2Mask](https://github.com/ThereforeGames/txt2mask) - Addon for mask based inpainting using natural language instead of brush tools.
 * 🖊️💵 [Auto SD Workflow](https://www.patreon.com/auto_sd_workflow) - A UI for [lstein/stable-diffusion](https://github.com/lstein/stable-diffusion)'s dream.py with optimized UX for large-scale/production workflow around image synthesis. [Video Walkthrough](https://vimeo.com/748114237).
 * [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Another, simple to use UI for windows and Linux.
