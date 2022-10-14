@@ -22,7 +22,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 
 All forks listed here add additional features and optimisations and are generally faster than the original release, as they keep the model in memory rather than reloading it after every prompt. Most forks seem to remove the Safety Classifier which may present a risk if used to provide public-facing services, such as Discord bots.
 
-* [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for SD with multiple user-friendly UI options including [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui), [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) and [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) (temporarily disabled).
+* [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for SD with multiple user-friendly UI options including [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui), [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) and [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI).
  
 * [basujindal/stable-diffusion](https://github.com/basujindal/stable-diffusion) - "Optimized Stable Diffusion"—a fork with dramatically reduced VRAM requirements through model splitting, enabling Stable Diffusion on lower-end graphics cards; includes a GradIO web interface and support for weighted prompts. 
 
