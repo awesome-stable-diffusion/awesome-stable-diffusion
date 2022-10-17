@@ -174,10 +174,11 @@ Tutorials and high quality educational resources
 * [r/sdforall](https://www.reddit.com/r/sdforall) - SDForAll
 
 ## Plugins for third party apps
-* [Blender Plugin](https://github.com/benrugg/AI-Render) - Plugin for the free 3D modelling spftware Blender
+* [Blender Plugin](https://github.com/benrugg/AI-Render) - Plugin for the free 3D modelling software Blender
 * [Gimp Plugin](https://github.com/blueturtleai/gimp-stable-diffusion) - Gimp Plugin. 
 * [Krita Plugin](https://github.com/nousr/koi) - A krita and Gimp SD plugin
-* [Photoshop Plugin](https://christiancantrell.com/#ai-ml) - SD for Photoshop (Adobe Exchange)
+* [Krita 5.0 Plugin](https://github.com/sddebz/stable-diffusion-krita-plugin) - Another Krita Plugin based on the popular Automatic1111 fork. 
+* 🖊️ [Photoshop Plugin](https://christiancantrell.com/#ai-ml) - SD for Photoshop (Adobe Exchange)
 
 
 ## Commercial SaaS and apps implementing Stable Diffusion
