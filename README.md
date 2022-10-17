@@ -151,9 +151,6 @@ Tutorials and high quality educational resources
 * [Sunny's Tips & Tricks](https://docs.google.com/document/u/1/d/1K6EqcsRut0InU-8jB0yOvBMGesf5Dndg5FwyuaYLqNc/mobilebasic) - Sunny's SD Tips & Tricks Google Doc with lots of visual comparisons and useful information.
 * [AI Image Generator Comparison](https://petapixel.com/2022/08/22/ai-image-generators-compared-side-by-side-reveals-stark-differences/) - A visual comparison between Dall-e, Stable Diffusion and Midjourney by PetaPixel.com.
 * [Getting great results at Stable Diffusion](https://old.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/) - A guide on generating images that don't suck.
-
-
-### Learning and Courses
 * [Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) - An illustrated primer on how Stable Diffusion works.
 * [Practical deep learning for coders](https://course.fast.ai/) - high quality course by fast.ai aimed at coders that covers many aspects of deep learning, including stable-diffusion.
 
@@ -175,6 +172,13 @@ Tutorials and high quality educational resources
 ## Social Media
 * [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/) - Stable Diffusion Subreddit. (Semi-official)
 * [r/sdforall](https://www.reddit.com/r/sdforall) - SDForAll
+
+## Plugins for third party apps
+* [Blender Plugin](https://github.com/benrugg/AI-Render) - Plugin for the free 3D modelling spftware Blender
+* [Gimp Plugin](https://github.com/blueturtleai/gimp-stable-diffusion) - Gimp Plugin. 
+* [Krita Plugin](https://github.com/nousr/koi) - A krita and Gimp SD plugin
+* [Photoshop Plugin](https://christiancantrell.com/#ai-ml) - SD for Photoshop (Adobe Exchange)
+
 
 ## Commercial SaaS and apps implementing Stable Diffusion
 * 🖊️💵 [AI Art Generator (IOS)](https://apps.apple.com/app/apple-store/id1644315225?pt=94765902&ct=github&mt=8) - iOS App to generate art using Stable Diffusion.
