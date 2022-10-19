@@ -73,7 +73,7 @@ Tools and models for use in conjuction with Stable Diffusion
 * [Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) - Implementation of [Google's DreamBooth](https://arxiv.org/abs/2208.12242) for stable diffusion, allowing fine-tuning of the model for specific concepts.
 * [textual-inversion](https://github.com/rinongal/textual_inversion) - Addition of personalized content to Stable Diffusion without retraining the model ([Paper](https://textual-inversion.github.io/), [Paper2](https://dreambooth.github.io/)). 
 * [sd-concepts-library](https://huggingface.co/sd-concepts-library) - A library of user created [textual-inversion](https://textual-inversion.github.io/) embeddings to add new concepts to stable diffusion
-
+* [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - Text to 3D dreamfusion implementation based on stable diffusion. 
 
 
 ### GUIS
