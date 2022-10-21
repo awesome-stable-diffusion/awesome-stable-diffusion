@@ -46,12 +46,13 @@ All forks listed here add additional features and optimisations and are generall
 
 ## Checkpoints and Weights
 
-Checkpoints (.ckpt files) must be separately downloaded and are required to run Stable Diffusion. The latest model release is v1.4.
+Checkpoints (.ckpt files) must be separately downloaded and are required to run Stable Diffusion. The latest model release is v1.5 released by runwayml. The latest stability ai release is 1.4.  
 
-* 🖊️ [Official Model Card](https://huggingface.co/CompVis/stable-diffusion) - Official Model Card on Hugging Face with all versions of the model. Download requires sign-in and acceptance of terms of service.
- * [stable-diffusion-v-1-4-original.chkpt](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original) - The latest model's card
-* [RealESRGAN Models](https://github.com/xinntao/Real-ESRGAN/releases/) - Download location for the latest RealESRGAN models required to use the upscaling features implemented by many forks. Different models exist for realistic and anime content. Please refer to the fork documentation to identify the ones you need.
-* [sd-v1-5-inpainting from RunwayML](https://huggingface.co/runwayml/stable-diffusion-inpainting/blob/main/sd-v1-5-inpainting.ckpt) - Checkpoint trained off SD 1.2 specifically for inpainting performance.
+need.
+* 🖊️ [sd-v1-5 from RunwayML](https://huggingface.co/runwayml/stable-diffusion-inpainting/blob/main/sd-v1-5-inpainting.ckpt) - Stable Diffusion 1.5 Checkpoint released by runwayML, featuring improved inpainting performance.
+* 🖊️ [Official Model Card](https://huggingface.co/CompVis/stable-diffusion) - Official Stability AI Model Card on Hugging Face with all versions of the model. Download requires sign-in and acceptance of terms of service.
+  * [stable-diffusion-v-1-4-original.chkpt](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original) - The original 1.4 model's card
+* [RealESRGAN Models](https://github.com/xinntao/Real-ESRGAN/releases/) - Download location for the latest RealESRGAN models required to use the upscaling features implemented by many forks. Different models exist for realistic and anime content. Please refer to the fork documentation to identify the ones you 
 
 ## Online Demos and Notebooks
 
