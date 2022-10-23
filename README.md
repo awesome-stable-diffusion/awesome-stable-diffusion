@@ -53,6 +53,7 @@ need.
 * 🖊️ [Official Model Card](https://huggingface.co/CompVis/stable-diffusion) - Official Stability AI Model Card on Hugging Face with all versions of the model. Download requires sign-in and acceptance of terms of service.
   * [stable-diffusion-v-1-4-original.chkpt](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original) - The original 1.4 model's card
 * [RealESRGAN Models](https://github.com/xinntao/Real-ESRGAN/releases/) - Download location for the latest RealESRGAN models required to use the upscaling features implemented by many forks. Different models exist for realistic and anime content. Please refer to the fork documentation to identify the ones you 
+* [sd-v1-5-inpainting from RunwayML](https://huggingface.co/runwayml/stable-diffusion-inpainting/blob/main/sd-v1-5-inpainting.ckpt) - Checkpoint optimized for inpainting on SD 1.5, released by runwayML.
 
 ## Online Demos and Notebooks
 
