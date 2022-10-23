@@ -13,7 +13,8 @@ See [Contributing](.github/CONTRIBUTING.md).
 
 ## TL;DR
 
-``` The easiest way to get started for most people is to pick one of the available [GUIs](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion/blob/main/README.md#guis) based on the desired platform and follow it's installation instructions ```
+** The easiest way to get started for most people is to pick one of the available [GUIs](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion/blob/main/README.md#guis) based on the desired platform and follow it's installation instructions. **
+
 
 
 ## Official Resources
