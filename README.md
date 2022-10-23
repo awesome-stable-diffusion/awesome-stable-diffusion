@@ -126,7 +126,7 @@ Prompts are the instructions given to diffusion models to manipulate their outpu
 * 🖊️[Phraser](https://phraser.tech/) - A visual prompt builder drawing on a database of examples. (Requires account creation)
 * 🖊️[Prompthero](https://prompthero.com/) = Another visual prompt builder and reference library.
 * [PromptoMania](https://promptomania.com/) - A visual prompt construction tool.
-* [rom1504/clip-retrieval](https://github.com/rom1504/clip-retrieval) - Searches for prompt keywords in the datasets used in training Stable Diffusion and other models ([Online GUI](https://rom1504.github.io/clip-retrieval/)).
+* [rom1504/clip-retrieval](https://github.com/rom1504/clip-retrieval) - Searches for prompt keywords in the datasets used in training Stable Diffusion and other models ([Online GUI](https://rom1504.github.io/clip-retrieval/)). Some GUIS like Automatic1111 include this functionality.
 * [Stable Diffusion Prompt Generator](https://huggingface.co/Gustavosta/MagicPrompt-Stable-Diffusion) - Gives suggestions for improving a given text prompt.
 * [PromptSearch](https://pagebrain.ai/promptsearch/?q=&page=1) - Yet another Stable Diffusion search engine but with public API
 * [Same Energy](https://same.energy/) - A visual search engine that returns images that have the same 'energy'. 
@@ -157,12 +157,13 @@ Tutorials and high quality educational resources
 * [Getting great results at Stable Diffusion](https://old.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/) - A guide on generating images that don't suck.
 * [Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) - An illustrated primer on how Stable Diffusion works.
 * [Practical deep learning for coders](https://course.fast.ai/) - high quality course by fast.ai aimed at coders that covers many aspects of deep learning, including stable-diffusion.
-
+* [Top SD Artists](https://www.urania.ai/top-sd-artists) - Searchable list of artists known by Stable Diffusion with example images.
 
 
 ### Studies
 * [Modifier Studies](https://proximacentaurib.notion.site/2b07d3195d5948c6a7e5836f9d535592?v=b5b75a67cc52483c9965cfc141f6f582) - Visual study of popular modifiers/keywords.
 * [Artist Studies](https://remidurant.com/artists/#) - Visual study of various artists.
+
 
 ### Extending Functionality
 * [Building a SD Discord Bot](https://replicate.com/blog/build-a-robot-artist-for-your-discord-server-with-stable-diffusion) - A tutorial on building a Stable Diffusion Discord bot using Python.
