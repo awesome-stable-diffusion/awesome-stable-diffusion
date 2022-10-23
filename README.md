@@ -11,6 +11,11 @@ Due to the fast-moving nature of the topic, entries in the list may be removed a
 
 See [Contributing](.github/CONTRIBUTING.md).
 
+## TL;DR
+
+``` The easiest way to get started for most people is to pick one of the available GUIs based on the desired platform and follow it's installation instructions ```
+
+
 ## Official Resources
 
 * **[CompVis/Stable Diffusion](https://github.com/CompVis/stable-diffusion)** - The official release of Stable Diffusion including a CLI, an AI-based Safety Classifier, which detects and suppresses sexualized content, and all the necessary files to get running.
