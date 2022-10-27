@@ -126,6 +126,7 @@ Most of these GUIS, unless mentioned otherwise in their documentation, include s
 Prompts are the instructions given to diffusion models to manipulate their output. 
 
 * [ai-art.com/modifiers](https://www.the-ai-art.com/modifiers) - A visual reference guide for keywords.
+* [aipromptguide.com](https://aipromptguide.com) - Visual Database of styles, modifier, artists and persons
 * [krea.ai](https://www.krea.ai/) - Prompt search engine that also recommends similar prompts to the one that you click on. 
   - 🖊️ With account creation, you can like and save prompts in your own collections.
 * [Lexica.art](https://lexica.art/) - A searchable, visual database of images and the prompts settings used to create them.
