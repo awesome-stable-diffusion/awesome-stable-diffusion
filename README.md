@@ -125,6 +125,8 @@ Most of these GUIS, unless mentioned otherwise in their documentation, include s
 
 Prompts are the instructions given to diffusion models to manipulate their output. 
 
+* [Stable diffusion prompt book](https://openart.ai/promptbook) - OpenAI's stable diffusion prompt book, a very comprehensive resource on prompt engineering.
+
 * [ai-art.com/modifiers](https://www.the-ai-art.com/modifiers) - A visual reference guide for keywords.
 * [aipromptguide.com](https://aipromptguide.com) - Visual Database of styles, modifier, artists and persons
 * [krea.ai](https://www.krea.ai/) - Prompt search engine that also recommends similar prompts to the one that you click on. 
