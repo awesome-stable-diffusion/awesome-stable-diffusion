@@ -29,8 +29,13 @@ Alternatively, most of the more developed forks (such as InvokeAI) come with the
 
 All forks listed here add additional features and optimisations and are generally faster than the original release, as they keep the model in memory rather than reloading it after every prompt. Most forks seem to remove the Safety Classifier which may present a risk if used to provide public-facing services, such as Discord bots.
 
+
 * [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for SD with multiple user-friendly UI options including [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui), [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) and [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI).
- 
+
+* [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Likely the fastest moving, most feature rich branch at the moment. Gradio based UI with extensive features such as in and outpainting, previews, xy plots, upscaling, clip-interrogation, textual inversion, negative prompting, a variety of upscaling features, training, checkpoint merging and switching capabilities and more. Comes with a handy install script that takes care of most dependencies and addons.
+   * Addon: [txt2Mask](https://github.com/ThereforeGames/txt2mask) - Addon for mask based inpainting using natural language instead of brush tools.
+   * For more addons and extensions, please see the repository and the in-gui extension installer   
+
 * [basujindal/stable-diffusion](https://github.com/basujindal/stable-diffusion) - "Optimized Stable Diffusion"—a fork with dramatically reduced VRAM requirements through model splitting, enabling Stable Diffusion on lower-end graphics cards; includes a GradIO web interface and support for weighted prompts. 
 
 * [bes-dev/stable_diffusion.openvino](https://github.com/bes-dev/stable_diffusion.openvino) - A fork for running the model using a CPU compatible with OpenVINO.
@@ -89,10 +94,11 @@ Tools and models for use in conjuction with Stable Diffusion
 
 Most of these GUIS, unless mentioned otherwise in their documentation, include stable-diffusion.
 
-* [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Gradio based UI with extensive features such as in and outpainting, previews, xy plots, upscaling, clip-interrogation, textual inversion, negative prompting, a variety of upscaling features, checkpoint merging and switching capabilities and more. Comes with a handy install script that takes care of most dependencies and addons.
-   * Addon: [txt2Mask](https://github.com/ThereforeGames/txt2mask) - Addon for mask based inpainting using natural language instead of brush tools.
+
 * 🖊️💵 [Auto SD Workflow](https://www.patreon.com/auto_sd_workflow) - A UI for [lstein/stable-diffusion](https://github.com/lstein/stable-diffusion)'s dream.py with optimized UX for large-scale/production workflow around image synthesis. [Video Walkthrough](https://vimeo.com/748114237).
+* [Carefree Creator (local version)](https://github.com/carefree0910/carefree-creator#webui--local-deployment) - User friendly GUI with a creator/artist centric workflow.      
 * [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Another, simple to use UI for windows and Linux.
+
 * [DiffusionBee](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Self contained binary app for MacOS.
 * 🖊️ [DiffusionUI](https://github.com/leszekhanusz/diffusion-ui) - web UI made with Vue.js inspired by Dall-e using [diffusers](https://github.com/huggingface/diffusers), perfect for inpainting. [Video demo](https://www.youtube.com/watch?v=AFZvW5qURes)
 * 🖊️ [KIRI.ART](https://kiri.art/) (formerly SD-MUI) - mobile-first PWA with multiple models (incl. waifu diffusion).  Run free locally or use free & paid credits on the live site.  Built with React + MaterialUI.  ([Source Code](https://github.com/gadicc/stable-diffusion-react-nextjs-mui-pwa)) `MIT License` `TypeScript`
