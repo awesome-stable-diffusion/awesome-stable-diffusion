@@ -25,6 +25,7 @@ Alternatively, most of the more developed forks (such as InvokeAI) come with the
 * [Public Release Announcement](https://stability.ai/blog/stable-diffusion-public-release) - StabilityAI's announcement about the public release of Stable Diffusion.
 * 🖊️ [Official Discord](https://discord.gg/stablediffusion) - The official Stable Diffusion Discord by StabilityAI.
 * [laion-aesthetic](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images) - The dataset used train stable diffusion, useful for querying to see if a concept is represented. 
+
 ## Actively Maintained Forks and Containers
 
 All forks listed here add additional features and optimisations and are generally faster than the original release, as they keep the model in memory rather than reloading it after every prompt. Most forks seem to remove the Safety Classifier which may present a risk if used to provide public-facing services, such as Discord bots.
@@ -34,11 +35,13 @@ All forks listed here add additional features and optimisations and are generall
 
 * [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Likely the fastest moving, most feature rich branch at the moment. Gradio based UI with extensive features such as in and outpainting, previews, xy plots, upscaling, clip-interrogation, textual inversion, negative prompting, a variety of upscaling features, training, checkpoint merging and switching capabilities and more. Comes with a handy install script that takes care of most dependencies and addons.
    * Addon: [txt2Mask](https://github.com/ThereforeGames/txt2mask) - Addon for mask based inpainting using natural language instead of brush tools.
+   * [DreamArtist](https://github.com/7eu7d7/DreamArtist-stable-diffusion) - DreamArtist: Towards Controllable One-Shot Text-to-Image Generation via Contrastive Prompt-Tuning (Extension)
    * For more addons and extensions, please see the repository and the in-gui extension installer   
 
 * [basujindal/stable-diffusion](https://github.com/basujindal/stable-diffusion) - "Optimized Stable Diffusion"—a fork with dramatically reduced VRAM requirements through model splitting, enabling Stable Diffusion on lower-end graphics cards; includes a GradIO web interface and support for weighted prompts. 
 
 * [bes-dev/stable_diffusion.openvino](https://github.com/bes-dev/stable_diffusion.openvino) - A fork for running the model using a CPU compatible with OpenVINO.
+* [DreamArtist](https://github.com/7eu7d7/DreamArtist-stable-diffusion) - With just one training image DreamArtist learns the content and style in it, generating diverse high-quality images with high controllability. Embeddings of DreamArtist can be easily combined with additional descriptions, as well as two learned embeddings. (standalone version) 
 * [fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - Speed focused fork with Dreambooth integration. 
 * [imaginAIry](https://github.com/brycedrennan/imaginAIry) - Pythonic generation of stable diffusion images. Unique in that it supports complex text-based masking. Has an interactive CLI, upscaling, face enhancement, tiling, and other standard features. No GUI.
 
@@ -93,7 +96,6 @@ Tools and models for use in conjuction with Stable Diffusion
 ### GUIS
 
 Most of these GUIS, unless mentioned otherwise in their documentation, include stable-diffusion.
-
 
 * 🖊️💵 [Auto SD Workflow](https://www.patreon.com/auto_sd_workflow) - A UI for [lstein/stable-diffusion](https://github.com/lstein/stable-diffusion)'s dream.py with optimized UX for large-scale/production workflow around image synthesis. [Video Walkthrough](https://vimeo.com/748114237).
 * [Carefree Creator (local version)](https://github.com/carefree0910/carefree-creator#webui--local-deployment) - User friendly GUI with a creator/artist centric workflow.      
