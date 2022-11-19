@@ -196,6 +196,7 @@ Tutorials and high quality educational resources
 ## Social Media
 * [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/) - Stable Diffusion Subreddit. (Semi-official)
 * [r/sdforall](https://www.reddit.com/r/sdforall) - SDForAll
+* [Diffusion Pulse](https://88stacks.com/the-stable-diffusion-newsletter/) - Weekly Stable Diffusion newsletter
 
 ## Plugins for third party apps
 * [Blender Plugin](https://github.com/benrugg/AI-Render) - Plugin for the free 3D modelling software Blender
