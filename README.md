@@ -208,7 +208,7 @@ Tutorials and high quality educational resources
 
 ## Commercial SaaS and apps implementing Stable Diffusion
 * 🖊️💵 [AI Art Generator (IOS)](https://apps.apple.com/app/apple-store/id1644315225?pt=94765902&ct=github&mt=8) - iOS App to generate art using Stable Diffusion.
-* [aiimagegenerator.org](https://www.aiimagegenerator.org/) - Free online art generator for generating images using Stable Diffusion with support for txt2img, img2img and inpainting.
+* [aiimagegenerator.org](https://www.aiimagegenerator.org/) - Free online art generator for generating images using Stable Diffusion. Supports txt2img and img2img generation and inpainting.
 * 🖊️💵 [Barium.ai](https://barium.ai/) - Generate PBR (physics based rendering) textures from text. Free and paid plans.
 * 🖊️💵 [Canva text-to-image](https://www.canva.com/apps/text-to-image-(beta) ) - Text-to-image (beta) service from Canva
 * 🖊️💵 [Dream Studio](http://beta.dreamstudio.ai/) - Online art generation service by StabilityAI, the creators of Stable Diffusion. Similar to services like DALL-E or Midjourney, this operates on a credit model with a free allowance of credits given to signed up users on a monthly basis.
