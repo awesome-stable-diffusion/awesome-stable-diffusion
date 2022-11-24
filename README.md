@@ -17,10 +17,16 @@ The easiest way to get started for most people is to pick one of the available [
 
 Alternatively, most of the more developed forks (such as InvokeAI) come with their own user interfaces.
 
+To get up and running, one usually needs:
+- A GUI or CLI based installation on a supported platform (usually NVIDIA GPU but support for Apple Silicon, AMD GPUS and even CPU exists in some branches)
+- The weights (.ckpt files) for the model downloaded from Huggingface
+- Sufficent RAM/VRAM available on the system.
+
 
 ## Official Resources
-
-* **[CompVis/Stable Diffusion](https://github.com/CompVis/stable-diffusion)** - The official release of Stable Diffusion including a CLI, an AI-based Safety Classifier, which detects and suppresses sexualized content, and all the necessary files to get running.
+* [Stable Diffusion 2.0 Release Notes](https://stability.ai/blog/stable-diffusion-v2-release) - Stable Diffusion 2.0 release notes.
+* **[https://github.com/Stability-AI/stablediffusion] - Official Stability AI Stable Diffusion 2.0 release.**
+* [CompVis/Stable Diffusion](https://github.com/CompVis/stable-diffusion) - The official release of Stable Diffusion including a CLI, an AI-based Safety Classifier, which detects and suppresses sexualized content, and all the necessary files to get running.
 * [stability-AI/stability-sdk](https://github.com/stability-AI/stability-sdk) - The official SDK used to build python applications integrated with StabilityAI's cloud platform instead of hosting the model locally. Operation requires an API Key (🖊️💵).
 * [Public Release Announcement](https://stability.ai/blog/stable-diffusion-public-release) - StabilityAI's announcement about the public release of Stable Diffusion.
 * 🖊️ [Official Discord](https://discord.gg/stablediffusion) - The official Stable Diffusion Discord by StabilityAI.
@@ -52,20 +58,27 @@ All forks listed here add additional features and optimisations and are generall
 * [lowfuel/progrock-stable](https://github.com/lowfuel/progrock-stable) - Fork with optional Web GUI and a different approach to upscaling (GoBIG/ESRGAN)
   * [txt2imghd](https://github.com/jquesnelle/txt2imghd) - Fork of progrock diffusion that creates detailed, higher-resolution images by first generating an image from a prompt, upscaling it, then running img2img on smaller pieces of the upscaled image, and blending the results back into the original image.
 
-* [neonsecret/stable-diffusion](https://github.com/neonsecret/stable-diffusion) - Fork focusing on bigger resolutions with less vram at the expense of speed, automatically adjusting to the GPUs abilities. Also includes upscaling, facial restoration via CodeFormer and [custom UI](https://github.com/neonsecret/stable-diffusion/blob/main/GUI_TUTORIAL.md)
 * [NickLucche/stable-diffusion-nvidia-docker](https://github.com/NickLucche/stable-diffusion-nvidia-docker) - Multi (Nvidia) GPU capable docker setup of SD
 * [replicate/copg-stable-diffusion](https://github.com/replicate/cog-stable-diffusion) - [Cog machine learning container](https://github.com/replicate/cog) of SD v1.4.
 * [stable-diffusion-jupyterlab-docker](https://github.com/pieroit/stable-diffusion-jupyterlab-docker) - A Docker setup ready to go with Jupyter notebooks for Stable Diffusion. 
 
 * [runwayml/stable-diffusion](https://github.com/runwayml/stable-diffusion) - Stable Diffusion Branch by [RunwayML](https://runwayml.com) with specifically trained inpainting model for high quality inpainting.
 
+### Potentially Stale/Less active branches
+
+These branches have not been updated in more than a months and are kept here for historic purposes
+* [neonsecret/stable-diffusion](https://github.com/neonsecret/stable-diffusion) - Fork focusing on bigger resolutions with less vram at the expense of speed, automatically adjusting to the GPUs abilities. Also includes upscaling, facial restoration via CodeFormer and [custom UI](https://github.com/neonsecret/stable-diffusion/blob/main/GUI_TUTORIAL.md)
+
+
+
 ## Checkpoints and Weights
 
-Checkpoints (.ckpt files) must be separately downloaded and are required to run Stable Diffusion. The latest model release is v1.5 released by runwayml. The latest stability ai release is 1.4.  
+Checkpoints (.ckpt files) must be separately downloaded and are required to run Stable Diffusion. The latest stability ai release is 2.0. The last model containing NSFW concepts was 1.5 released by RunwayML
 
 need.
+* 🖊️ [sd-2.0 Model Cards](https://huggingface.co/StabilityAI) - Model Cards/Weights for Stable Diffusion 2.0 (diffusion, upscaling and inpainting checkpoints)
 * 🖊️ [sd-v1-5 from RunwayML](https://huggingface.co/runwayml/stable-diffusion-v1-5?) - Stable Diffusion 1.5 Checkpoint released by runwayML. 
-* 🖊️ [Official Model Card](https://huggingface.co/CompVis/stable-diffusion) - Official Stability AI Model Card on Hugging Face with all versions of the model. Download requires sign-in and acceptance of terms of service.
+* 🖊️ [Official Model Card 1.5](https://huggingface.co/CompVis/stable-diffusion) - Official Stability AI Model Card on Hugging Face with all versions of the model. Download requires sign-in and acceptance of terms of service.
   * [stable-diffusion-v-1-4-original.chkpt](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original) - The original 1.4 model's card
 * [RealESRGAN Models](https://github.com/xinntao/Real-ESRGAN/releases/) - Download location for the latest RealESRGAN models required to use the upscaling features implemented by many forks. Different models exist for realistic and anime content. Please refer to the fork documentation to identify the ones you 
 * [sd-v1-5-inpainting from RunwayML](https://huggingface.co/runwayml/stable-diffusion-inpainting/blob/main/sd-v1-5-inpainting.ckpt) - Checkpoint optimized for inpainting on SD 1.5, released by runwayML.
