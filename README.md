@@ -99,12 +99,18 @@ Tools and models for use in conjuction with Stable Diffusion
 * [Prompt to Prompt](https://github.com/bloc97/CrossAttentionControl) - Unofficial Implementation of Cross-attention-control for prompt to prompt image editing. 
 * [sd-prompt-graph](https://github.com/trevbook/sd-prompt-graph) - This is a React-based curve editor GUI for prompt interpolation animations made with Stable Diffusion.
 * [DAAM](https://github.com/castorini/daam) - Diffusion attention attribution maps, generating heatmaps modelling the impact of specific terms and tokens in the prompt on the final diffusion result.
-
-### Customisation
-* [Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) - Implementation of [Google's DreamBooth](https://arxiv.org/abs/2208.12242) for stable diffusion, allowing fine-tuning of the model for specific concepts.
-* [textual-inversion](https://github.com/rinongal/textual_inversion) - Addition of personalized content to Stable Diffusion without retraining the model ([Paper](https://textual-inversion.github.io/), [Paper2](https://dreambooth.github.io/)). 
 * [sd-concepts-library](https://huggingface.co/sd-concepts-library) - A library of user created [textual-inversion](https://textual-inversion.github.io/) embeddings to add new concepts to stable diffusion
+
+## Training
+
+* [Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) - Implementation of [Google's DreamBooth](https://arxiv.org/abs/2208.12242) for stable diffusion, allowing fine-tuning of the model for specific concepts.
+
+* [Stable Diffusion Trainer](https://github.com/CCRcmcpe/scal-sdt) - Stable Diffusion trainer with scalable dataset size and hardware usage. Requires 10G of VRAM.
+
+* [textual-inversion](https://github.com/rinongal/textual_inversion) - Addition of personalized content to Stable Diffusion without retraining the model ([Paper](https://textual-inversion.github.io/), [Paper2](https://dreambooth.github.io/)). 
+
 * [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - Text to 3D dreamfusion implementation based on stable diffusion. 
+
 
 
 ### GUIS
