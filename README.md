@@ -42,6 +42,7 @@ All forks listed here add additional features and optimisations and are generall
 * [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Likely the fastest moving, most feature rich branch at the moment. Gradio based UI with extensive features such as in and outpainting, previews, xy plots, upscaling, clip-interrogation, textual inversion, negative prompting, a variety of upscaling features, training, checkpoint merging and switching capabilities and more. Comes with a handy install script that takes care of most dependencies and addons.
    * Addon: [txt2Mask](https://github.com/ThereforeGames/txt2mask) - Addon for mask based inpainting using natural language instead of brush tools.
    * [DreamArtist](https://github.com/7eu7d7/DreamArtist-stable-diffusion) - DreamArtist: Towards Controllable One-Shot Text-to-Image Generation via Contrastive Prompt-Tuning (Extension)
+   * [Multi Subject Render](https://github.com/Extraltodeus/multi-subject-render) - Extension to enable reliable rendering of multiple subjects
    * For more addons and extensions, please see the repository and the in-gui extension installer   
 
 * [basujindal/stable-diffusion](https://github.com/basujindal/stable-diffusion) - "Optimized Stable Diffusion"—a fork with dramatically reduced VRAM requirements through model splitting, enabling Stable Diffusion on lower-end graphics cards; includes a GradIO web interface and support for weighted prompts. 
