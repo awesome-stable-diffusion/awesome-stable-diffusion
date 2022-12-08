@@ -79,8 +79,8 @@ Checkpoints (.ckpt files) must be separately downloaded and are required to run 
 For 2.x releases, there is a 768x768px resolution capable model trained off the base model (512x512 pixels). You need **one** of these models to use stable diffusion and generally want to chose the latest one that fits your needs.
 
 
-* 🖊️ **[sd-2.1 Model Cards (768x768px](https://huggingface.co/stabilityai/stable-diffusion-2-1) - Model Cards/Weights for Stable Diffusion 2.1 (diffusion, upscaling and inpainting checkpoints)**
-* 🖊️ [sd-2.1 Base Model Cards (512px768x](https://huggingface.co/stabilityai/stable-diffusion-2-1-base) - Model Cards/Weights for Stable Diffusion 2.1 (diffusion, upscaling and inpainting checkpoints)
+* 🖊️ **[sd-2.1 Model Cards (768x768px)](https://huggingface.co/stabilityai/stable-diffusion-2-1) - Model Cards/Weights for Stable Diffusion 2.1 (diffusion, upscaling and inpainting checkpoints)**
+* 🖊️ [sd-2.1 Base Model Cards (512px512px)](https://huggingface.co/stabilityai/stable-diffusion-2-1-base) - Model Cards/Weights for Stable Diffusion 2.1 (diffusion, upscaling and inpainting checkpoints)
 https://huggingface.co/stabilityai/stable-diffusion-2-1-base
 * 🖊️ [sd-2.0 Model Cards](https://huggingface.co/StabilityAI) - Model Cards/Weights for Stable Diffusion 2.0 (diffusion, upscaling and inpainting checkpoints)
 * 🖊️ [sd-v1-5 from RunwayML](https://huggingface.co/runwayml/stable-diffusion-v1-5?) - Stable Diffusion 1.5 Checkpoint released by runwayML. 
