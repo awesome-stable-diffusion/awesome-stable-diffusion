@@ -25,7 +25,7 @@ To get up and running, one usually needs:
 
 ## Official Resources
 * [Stable Diffusion 2.1 Release Notes](https://stability.ai/blog/stablediffusion2-1-release7-dec-2022) - Stable Diffusion 2.1 release notes.
-* **[https://github.com/Stability-AI/stablediffusion] - Official Stability AI Stable Diffusion 2.1 release.**
+* **https://github.com/Stability-AI/stablediffusion - Official Stability AI Stable Diffusion 2.1 release.**
 * [CompVis/Stable Diffusion](https://github.com/CompVis/stable-diffusion) - The official release of Stable Diffusion including a CLI, an AI-based Safety Classifier, which detects and suppresses sexualized content, and all the necessary files to get running.
 * [stability-AI/stability-sdk](https://github.com/stability-AI/stability-sdk) - The official SDK used to build python applications integrated with StabilityAI's cloud platform instead of hosting the model locally. Operation requires an API Key (🖊️💵).
 * [Public Release Announcement](https://stability.ai/blog/stable-diffusion-public-release) - StabilityAI's announcement about the public release of Stable Diffusion.
