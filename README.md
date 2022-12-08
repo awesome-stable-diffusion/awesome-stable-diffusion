@@ -24,8 +24,8 @@ To get up and running, one usually needs:
 
 
 ## Official Resources
-* [Stable Diffusion 2.0 Release Notes](https://stability.ai/blog/stable-diffusion-v2-release) - Stable Diffusion 2.0 release notes.
-* **[https://github.com/Stability-AI/stablediffusion] - Official Stability AI Stable Diffusion 2.0 release.**
+* [Stable Diffusion 2.1 Release Notes](https://stability.ai/blog/stablediffusion2-1-release7-dec-2022) - Stable Diffusion 2.1 release notes.
+* **[https://github.com/Stability-AI/stablediffusion] - Official Stability AI Stable Diffusion 2.1 release.**
 * [CompVis/Stable Diffusion](https://github.com/CompVis/stable-diffusion) - The official release of Stable Diffusion including a CLI, an AI-based Safety Classifier, which detects and suppresses sexualized content, and all the necessary files to get running.
 * [stability-AI/stability-sdk](https://github.com/stability-AI/stability-sdk) - The official SDK used to build python applications integrated with StabilityAI's cloud platform instead of hosting the model locally. Operation requires an API Key (🖊️💵).
 * [Public Release Announcement](https://stability.ai/blog/stable-diffusion-public-release) - StabilityAI's announcement about the public release of Stable Diffusion.
@@ -74,9 +74,14 @@ These branches have not been updated in more than a months and are kept here for
 
 ## Checkpoints and Weights
 
-Checkpoints (.ckpt files) must be separately downloaded and are required to run Stable Diffusion. The latest stability ai release is 2.0. The last model containing NSFW concepts was 1.5 released by RunwayML
+Checkpoints (.ckpt files) must be separately downloaded and are required to run Stable Diffusion. The latest stability ai release is 2.1. The last model containing NSFW concepts was 1.5 released by RunwayML.
 
-need.
+For 2.x releases, there is a 768x768px resolution capable model trained off the base model (512x512 pixels). You need **one** of these models to use stable diffusion and generally want to chose the latest one that fits your needs.
+
+
+* 🖊️ **[sd-2.1 Model Cards (768x768px](https://huggingface.co/stabilityai/stable-diffusion-2-1) - Model Cards/Weights for Stable Diffusion 2.1 (diffusion, upscaling and inpainting checkpoints)**
+* 🖊️ [sd-2.1 Base Model Cards (512px768x](https://huggingface.co/stabilityai/stable-diffusion-2-1-base) - Model Cards/Weights for Stable Diffusion 2.1 (diffusion, upscaling and inpainting checkpoints)
+https://huggingface.co/stabilityai/stable-diffusion-2-1-base
 * 🖊️ [sd-2.0 Model Cards](https://huggingface.co/StabilityAI) - Model Cards/Weights for Stable Diffusion 2.0 (diffusion, upscaling and inpainting checkpoints)
 * 🖊️ [sd-v1-5 from RunwayML](https://huggingface.co/runwayml/stable-diffusion-v1-5?) - Stable Diffusion 1.5 Checkpoint released by runwayML. 
 * 🖊️ [Official Model Card 1.5](https://huggingface.co/CompVis/stable-diffusion) - Official Stability AI Model Card on Hugging Face with all versions of the model. Download requires sign-in and acceptance of terms of service.
