@@ -239,9 +239,11 @@ Tutorials and high quality educational resources
 * 🖊️💵 [Canva text-to-image](https://www.canva.com/apps/text-to-image-(beta) ) - Text-to-image (beta) service from Canva
 * 🖊️💵 [Dream Studio](http://beta.dreamstudio.ai/) - Online art generation service by StabilityAI, the creators of Stable Diffusion. Similar to services like DALL-E or Midjourney, this operates on a credit model with a free allowance of credits given to signed up users on a monthly basis.
 * 🖊️💵 [dream.ai](https://www.dream.ai/) - Online art generation service by Wombo.ai (mobile apps available).
+* 🖊️💵 [GimmeAPIs](https://gimmeapis.com) - Third party REST API Stable Diffusion service. 
 * 🖊️💵 [Image Computer](https://image.computer) - Easy-to-use service aimed at non-technical people (comes with free trial credits)
 * 🖊️💵 [Neural.love](https://neural.love/ai-art-generator) - Another online art generator with generous free credits as of Oct 2022. 
 * 🖊️💵 [replicate.com stable diffusion](https://replicate.com/stability-ai/stable-diffusion) - Another SaaS offering for Stable Diffusion.
 * 🖊️💵 [Starry AI (IOS)](https://apps.apple.com/us/app/starryai-create-art-with-ai/id1580512844) - Another IOS app offering stable diffusion with preset art styles. 
 * 🖊️ [Stable Horde](https://stablehorde.net/) - Distributed stable diffusion cluster (think folding@home) with web, discord and telegram interfaces where joining with your GPU gives you priority. 
 * 🖊️💵 [Stable Diffusion as API](https://stablediffusionapi.com/) - Third party REST API into table Diffusion service.
+
