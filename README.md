@@ -109,7 +109,12 @@ Tools and models for use in conjuction with Stable Diffusion
 
 ## Training
 
+
 * [Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) - Implementation of [Google's DreamBooth](https://arxiv.org/abs/2208.12242) for stable diffusion, allowing fine-tuning of the model for specific concepts.
+
+* [LORA](https://github.com/cloneofsimo/lora) - LORA (Low-rank Adaptation) for Faster Text-to-Image Diffusion Fine-tuning (UNET+CLIP), a faster, more efficient Fine tuning method requiring less RAM than Dreambooth. [Huggingface demo here](https://huggingface.co/spaces/ysharma/Low-rank-Adaptation).
+
+* [Stable Tuner](https://github.com/devilismyfriend/StableTuner) - Stable Tuner, an easy to install Dreambooth trainer with a very comfortable user interface.
 
 * [Stable Diffusion Trainer](https://github.com/CCRcmcpe/scal-sdt) - Stable Diffusion trainer with scalable dataset size and hardware usage. Requires 10G of VRAM.
 
