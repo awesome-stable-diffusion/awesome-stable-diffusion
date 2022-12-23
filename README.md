@@ -5,6 +5,7 @@
 This is a list of software and resources for the [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release) AI model.
 
 - 🖊️ marks content that requires sign-up or account creation for a third party service outside GitHub.
+- ❓ marks content with unclear licensing conditions (e.g. lack of a license on Github)
 - 💵 marks [Non-Free](https://en.wikipedia.org/wiki/Free_software) content: commercial content that may require any kind of payment.
 
 Due to the fast-moving nature of the topic, entries in the list may be removed at an expedited rate until the ecosystem matures.
@@ -34,16 +35,11 @@ To get up and running, one usually needs:
 
 ## Actively Maintained Forks and Containers
 
-All forks listed here add additional features and optimisations and are generally faster than the original release, as they keep the model in memory rather than reloading it after every prompt. Most forks seem to remove the Safety Classifier which may present a risk if used to provide public-facing services, such as Discord bots.
-
+All forks listed here add additional features and optimisations and are generally faster than the original release, as they keep the model in memory rather than reloading it after every prompt. Most forks seem to remove the Safety Classifier which may present a risk if used to provide public-facing services, such as Discord bots. The two most popular forks at this point are Automatic1111 and InvokeAI
 
 * [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for SD with multiple user-friendly UI options including [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui), [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) and [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI).
 
-* [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Likely the fastest moving, most feature rich branch at the moment. Gradio based UI with extensive features such as in and outpainting, previews, xy plots, upscaling, clip-interrogation, textual inversion, negative prompting, a variety of upscaling features, training, checkpoint merging and switching capabilities and more. Comes with a handy install script that takes care of most dependencies and addons.
-   * Addon: [txt2Mask](https://github.com/ThereforeGames/txt2mask) - Addon for mask based inpainting using natural language instead of brush tools.
-   * [DreamArtist](https://github.com/7eu7d7/DreamArtist-stable-diffusion) - DreamArtist: Towards Controllable One-Shot Text-to-Image Generation via Contrastive Prompt-Tuning (Extension)
-   * [Multi Subject Render](https://github.com/Extraltodeus/multi-subject-render) - Extension to enable reliable rendering of multiple subjects
-   * For more addons and extensions, please see the repository and the in-gui extension installer   
+* ❓[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Likely the fastest moving, most feature rich branch at the moment. Gradio based UI with extensive features such as in and outpainting, previews, xy plots, upscaling, clip-interrogation, textual inversion, negative prompting, a variety of upscaling features, training, checkpoint merging and switching capabilities and more. Comes with a handy install script that takes care of most dependencies and addons. 
 
 * [basujindal/stable-diffusion](https://github.com/basujindal/stable-diffusion) - "Optimized Stable Diffusion"—a fork with dramatically reduced VRAM requirements through model splitting, enabling Stable Diffusion on lower-end graphics cards; includes a GradIO web interface and support for weighted prompts. 
 
@@ -55,9 +51,6 @@ All forks listed here add additional features and optimisations and are generall
 * [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - (formerly known as lstein/stable-diffusion) - Very active fork adding a conversational CLI, basic web interface and support for GFPGAN, ESRGAN, Codeformer, weighted prompts, prompt blending, negative prompting, img2img, tiling, [textual-inversion](https://textual-inversion.github.io/) as well as inference on Apple M1.
 
 * [KerasCV StableDiffusion](https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/) - High performance implementation of stable diffusion on KerasCV.
-
-* [lowfuel/progrock-stable](https://github.com/lowfuel/progrock-stable) - Fork with optional Web GUI and a different approach to upscaling (GoBIG/ESRGAN)
-  * [txt2imghd](https://github.com/jquesnelle/txt2imghd) - Fork of progrock diffusion that creates detailed, higher-resolution images by first generating an image from a prompt, upscaling it, then running img2img on smaller pieces of the upscaled image, and blending the results back into the original image.
 
 * [NickLucche/stable-diffusion-nvidia-docker](https://github.com/NickLucche/stable-diffusion-nvidia-docker) - Multi (Nvidia) GPU capable docker setup of SD
 * [replicate/copg-stable-diffusion](https://github.com/replicate/cog-stable-diffusion) - [Cog machine learning container](https://github.com/replicate/cog) of SD v1.4.
@@ -253,3 +246,7 @@ Tutorials and high quality educational resources
 * 🖊️ [Stable Horde](https://stablehorde.net/) - Distributed stable diffusion cluster (think folding@home) with web, discord and telegram interfaces where joining with your GPU gives you priority. 
 * 🖊️💵 [Stable Diffusion as API](https://stablediffusionapi.com/) - Third party REST API into table Diffusion service.
 
+## The Attic - previous links, retired for inactivity
+
+* [lowfuel/progrock-stable](https://github.com/lowfuel/progrock-stable) - Fork with optional Web GUI and a different approach to upscaling (GoBIG/ESRGAN)
+  * [txt2imghd](https://github.com/jquesnelle/txt2imghd) - Fork of progrock diffusion that creates detailed, higher-resolution images by first generating an image from a prompt, upscaling it, then running img2img on smaller pieces of the upscaled image, and blending the results back into the original image.
