@@ -46,6 +46,7 @@ All forks listed here add additional features and optimisations and are generall
 * [bes-dev/stable_diffusion.openvino](https://github.com/bes-dev/stable_diffusion.openvino) - A fork for running the model using a CPU compatible with OpenVINO.
 * [DreamArtist](https://github.com/7eu7d7/DreamArtist-stable-diffusion) - With just one training image DreamArtist learns the content and style in it, generating diverse high-quality images with high controllability. Embeddings of DreamArtist can be easily combined with additional descriptions, as well as two learned embeddings. (standalone version) 
 * [fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - Speed focused fork with Dreambooth integration. 
+* [Gauss](https://github.com/justjake/Gauss) - Native MacOS Stable Diffusion App.
 * [imaginAIry](https://github.com/brycedrennan/imaginAIry) - Pythonic generation of stable diffusion images. Unique in that it supports complex text-based masking. Has an interactive CLI, upscaling, face enhancement, tiling, and other standard features. No GUI.
 
 * [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - (formerly known as lstein/stable-diffusion) - Very active fork adding a conversational CLI, basic web interface and support for GFPGAN, ESRGAN, Codeformer, weighted prompts, prompt blending, negative prompting, img2img, tiling, [textual-inversion](https://textual-inversion.github.io/) as well as inference on Apple M1.
