@@ -95,7 +95,7 @@ https://huggingface.co/stabilityai/stable-diffusion-2-1-base
 ## Complementary Models and Tools
 
 Tools and models for use in conjuction with Stable Diffusion
-
+* [Civitai Model Repository](https://civitai.com/) - Repository for custom models and textual inversion embeddings.
 * [Prompt to Prompt](https://github.com/bloc97/CrossAttentionControl) - Unofficial Implementation of Cross-attention-control for prompt to prompt image editing. 
 * [sd-prompt-graph](https://github.com/trevbook/sd-prompt-graph) - This is a React-based curve editor GUI for prompt interpolation animations made with Stable Diffusion.
 * [DAAM](https://github.com/castorini/daam) - Diffusion attention attribution maps, generating heatmaps modelling the impact of specific terms and tokens in the prompt on the final diffusion result.
