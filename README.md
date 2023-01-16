@@ -136,6 +136,7 @@ Most of these GUIS, unless mentioned otherwise in their documentation, include s
 * [Unstable Fusion](https://github.com/ahrm/UnstableFusion) - A Stable Diffusion desktop frontend with inpainting, img2img and more
 * [stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - A docker based frontend integrating the most popular forks.
 * 🖊️ [Synesthetic](https://synesthetic.ai) - Prompt search engine and generator focused on remixing
+* * [StableDiffusionUnityTools](https://github.com/KonH/StableDiffusionUnityTools) - Unity Editor assets generation
 
 ### Upscaling
 * [BasicSR](https://github.com/XPixelGroup/BasicSR) - Open-source upscaling and restoration toolbox supporting several models.
