@@ -196,7 +196,7 @@ Tutorials and high quality educational resources
 ### Learning and Mastering
 
 * [Stable Diffusion Akashic Records](https://github.com/Maks-s/sd-akashic) - A comprehensive curated list of guides, studies, keywords, prompts and artists.
-* [Sunny's Tips & Tricks](https://docs.google.com/document/u/1/d/1K6EqcsRut0InU-8jB0yOvBMGesf5Dndg5FwyuaYLqNc/mobilebasic) - Sunny's SD Tips & Tricks Google Doc with lots of visual comparisons and useful information.
+* [Sunny's Tips & Tricks](https://docs.google.com/document/d/1R2UZi5G-DXiz2HcCrfAFLYJoer_JPDEoZmV7wy1tEz0/mobilebasic) - Sunny's SD Tips & Tricks Google Doc with lots of visual comparisons and useful information.
 * [AI Image Generator Comparison](https://petapixel.com/2022/08/22/ai-image-generators-compared-side-by-side-reveals-stark-differences/) - A visual comparison between Dall-e, Stable Diffusion and Midjourney by PetaPixel.com.
 * [Getting great results at Stable Diffusion](https://old.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/) - A guide on generating images that don't suck.
 * [Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) - An illustrated primer on how Stable Diffusion works.
