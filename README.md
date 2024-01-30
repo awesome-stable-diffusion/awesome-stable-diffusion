@@ -31,7 +31,7 @@ To get up and running, one usually needs:
 * [stability-AI/stability-sdk](https://github.com/stability-AI/stability-sdk) - The official SDK used to build python applications integrated with StabilityAI's cloud platform instead of hosting the model locally. Operation requires an API Key (🖊️💵).
 * [Public Release Announcement](https://stability.ai/blog/stable-diffusion-public-release) - StabilityAI's announcement about the public release of Stable Diffusion.
 * 🖊️ [Official Discord](https://discord.gg/stablediffusion) - The official Stable Diffusion Discord by StabilityAI.
-* [laion-aesthetic](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images) - The dataset used train stable diffusion, useful for querying to see if a concept is represented. 
+* [~~laion-aesthetic~~](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images) - The dataset used train stable diffusion, useful for querying to see if a concept is represented.
 
 ## Actively Maintained Forks and Containers
 
